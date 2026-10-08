@@ -12,5 +12,6 @@ Klientský report hledanosti (Google Ads Keyword Planner) pro OPOP.
   Období a datum poslední aktualizace jsou uvedené přímo ve stránce.
 
 Soubor `index.html` je generovaný (data jsou vložená uvnitř), ručně se neupravuje.
+Složka `history/` je archiv měsíčních dat od 2023-01 (záloha, stránka ho nečte).
 Aktualizace = nové stažení dat z Keyword Planneru, přegenerování stránky a push
 do tohoto repa; GitHub Pages ji zveřejní během minuty.
