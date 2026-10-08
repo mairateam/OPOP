@@ -157,10 +157,10 @@
   .badge.zero{ background:#f3f3f4; color:#999; }
 
   .heatmap-scroll{ overflow-x:auto; }
-  table.heatmap{ border-collapse:separate; border-spacing:3px; font-size:11.5px; }
+  table.heatmap{ border-collapse:separate; border-spacing:3px; font-size:11.5px; width:auto; }
   table.heatmap th{ background:transparent; border:none; color:#999; font-weight:600; text-align:center; padding:2px 4px; }
   table.heatmap th.yr-label{ text-align:right; padding-right:8px; color:#777; }
-  table.heatmap td{ width:46px; height:30px; text-align:center; border-radius:6px; font-weight:600; font-size:11px; border:none; }
+  table.heatmap td{ width:46px; height:30px; text-align:center; border-radius:6px; font-weight:600; font-size:11px; border:none; padding:0 4px; white-space:nowrap; }
 
   footer{
     font-size:12px; color:#999; padding:26px 16px 10px; max-width:1180px; margin:0 auto;
@@ -198,7 +198,7 @@
     <summary>Metodika (klikněte pro rozbalení)</summary>
     <div class="methodology-body">
       <h3>Zdroj dat</h3>
-      <p>Google Keyword Planner přes Databy MCP (<code>google_ads__generate_keyword_ideas</code> a <code>google_ads__get_keyword_historical_metrics</code>), jen čtení, nic nebylo zapsáno do účtu ani odesláno. Měsíční objemy hledání (monthly search volumes), ne search terms z účtu. Rozsah 47 měsíců, 2022-10 až 2026-08 (poslední dostupný měsíc je srpen 2026).</p>
+      <p>Google Ads Keyword Planner (měsíční objemy hledání pro zvolený jazyk a zemi). Jde o hledanost na Googlu, ne o vyhledávací dotazy z reklamního účtu. Rozsah 47 měsíců, 2022-10 až 2026-08 (poslední dostupný měsíc je srpen 2026).</p>
       <h3>4 kategorie bez míchání</h3>
       <p>Pro CZ a SK: kotle na tuhá paliva / kotle na pevná paliva / kotle na dřevo / kotle na pelety jsou 4 samostatné kategorie podle explicitního zadání klienta (bez sloučení tuhá+pevná, i když jsou to v praxi blízká synonyma). Pro PL: kotły na paliwo stałe (singulár) / kotły na paliwa stałe (plurál) / kotły na drewno / kotły na pellet. Polština nemá dvě různá slova jako čeština, 4. kategorie vzniká rozdělením podle gramatického čísla slova „palivo".</p>
       <h3>Dedup</h3>
@@ -220,7 +220,7 @@
 
 <footer>
   <p>Poznámka: v češtině a slovenštině jsou „tuhá/tuhé" a „pevná/pevné paliva" v praxi blízká synonyma, v tomto reportu ale podle zadání klienta zůstávají jako 2 oddělené kategorie. V polštině kategorie „paliwo stałe" (singulár) a „paliwa stałe" (plurál) vznikají rozdělením podle gramatického čísla, ne podle významu. Keyword Planner tyto dva tvary u některých dotazů nerozlišuje (sloučeno case-by-case, viz metodika).</p>
-  <p><a href="#" id="methLink">Metodika a zdrojová data</a> · generováno skriptem build_data_&lt;cc&gt;.py ze stažených dat Google Keyword Planneru</p>
+  <p><a href="#" id="methLink">Metodika a zdrojová data</a> · generováno automaticky ze stažených dat Google Ads Keyword Planneru</p>
 </footer>
 
 <script id="opop-data" type="application/json">
@@ -635,7 +635,7 @@
     if (!data) return;
 
     document.getElementById('subtitle').innerHTML =
-      '<strong>Zdroj:</strong> Google Keyword Planner (Databy MCP) · <strong>Data k:</strong> ' + data.generated +
+      '<strong>Zdroj:</strong> Google Ads Keyword Planner · <strong>Data k:</strong> ' + data.generated +
       ' · <strong>Rozsah:</strong> ' + data.months[0] + ' až ' + data.months[data.months.length - 1] + ' (' + data.months.length + ' měsíců)';
 
     if (state.view === '__all__'){
