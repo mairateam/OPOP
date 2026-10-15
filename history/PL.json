@@ -53,15 +53,16 @@
     "2026-05": 0,
     "2026-06": 0,
     "2026-07": 0,
-    "2026-08": 0
+    "2026-08": 0,
+    "2026-09": 0
    }
   },
   "bezawaryjne piece na pellet": {
-   "avg_monthly_searches": 260,
+   "avg_monthly_searches": 210,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 8972799,
-   "low_bid_micros": 3548862,
+   "high_bid_micros": 11387450,
+   "low_bid_micros": 2445874,
    "monthly": {
     "2023-01": 260,
     "2023-02": 210,
@@ -106,15 +107,16 @@
     "2026-05": 90,
     "2026-06": 110,
     "2026-07": 90,
-    "2026-08": 70
+    "2026-08": 70,
+    "2026-09": 70
    }
   },
   "bufor do pieca na drewno": {
    "avg_monthly_searches": 170,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 5633333,
-   "low_bid_micros": 962263,
+   "high_bid_micros": 5900256,
+   "low_bid_micros": 1365013,
    "monthly": {
     "2023-01": 50,
     "2023-02": 50,
@@ -159,7 +161,8 @@
     "2026-05": 110,
     "2026-06": 70,
     "2026-07": 70,
-    "2026-08": 170
+    "2026-08": 170,
+    "2026-09": 210
    }
   },
   "do kiedy kotły na paliwo stałe": {
@@ -212,7 +215,8 @@
     "2026-05": 0,
     "2026-06": 0,
     "2026-07": 10,
-    "2026-08": 10
+    "2026-08": 10,
+    "2026-09": 10
    }
   },
   "dobry kocioł na paliwo stałe": {
@@ -265,15 +269,16 @@
     "2026-05": 0,
     "2026-06": 0,
     "2026-07": 0,
-    "2026-08": 0
+    "2026-08": 0,
+    "2026-09": 0
    }
   },
   "dobry piec na drewno": {
    "avg_monthly_searches": 170,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 7510735,
-   "low_bid_micros": 2081763,
+   "high_bid_micros": 7244203,
+   "low_bid_micros": 1046006,
    "monthly": {
     "2023-01": 590,
     "2023-02": 480,
@@ -318,13 +323,14 @@
     "2026-05": 90,
     "2026-06": 90,
     "2026-07": 90,
-    "2026-08": 110
+    "2026-08": 110,
+    "2026-09": 140
    }
   },
   "ekologiczne kotły na paliwo stałe": {
    "avg_monthly_searches": 10,
    "category": "paliwo_stale",
-   "competition": "UNSPECIFIED",
+   "competition": "HIGH",
    "high_bid_micros": null,
    "low_bid_micros": null,
    "monthly": {
@@ -371,13 +377,14 @@
     "2026-05": 0,
     "2026-06": 0,
     "2026-07": 10,
-    "2026-08": 0
+    "2026-08": 0,
+    "2026-09": 10
    }
   },
   "ekologiczny kocioł na paliwo stałe": {
    "avg_monthly_searches": 10,
    "category": "paliwo_stale",
-   "competition": "HIGH",
+   "competition": "UNSPECIFIED",
    "high_bid_micros": null,
    "low_bid_micros": null,
    "monthly": {
@@ -424,7 +431,8 @@
     "2026-05": 0,
     "2026-06": 10,
     "2026-07": 10,
-    "2026-08": 10
+    "2026-08": 10,
+    "2026-09": 0
    }
   },
   "ekologiczny kocioł na paliwo stałe klasa a": {
@@ -477,13 +485,14 @@
     "2026-05": 10,
     "2026-06": 0,
     "2026-07": 0,
-    "2026-08": 0
+    "2026-08": 0,
+    "2026-09": 0
    }
   },
   "klasa 1 kotła na paliwo stałe": {
    "avg_monthly_searches": 10,
    "category": "paliwo_stale",
-   "competition": "LOW",
+   "competition": "MEDIUM",
    "high_bid_micros": null,
    "low_bid_micros": null,
    "monthly": {
@@ -530,13 +539,14 @@
     "2026-05": 0,
     "2026-06": 10,
     "2026-07": 10,
-    "2026-08": 10
+    "2026-08": 10,
+    "2026-09": 10
    }
   },
   "klasa 3 kotła na paliwo stałe": {
    "avg_monthly_searches": 10,
    "category": "paliwo_stale",
-   "competition": "LOW",
+   "competition": "UNSPECIFIED",
    "high_bid_micros": null,
    "low_bid_micros": null,
    "monthly": {
@@ -583,13 +593,14 @@
     "2026-05": 0,
     "2026-06": 0,
     "2026-07": 0,
-    "2026-08": 10
+    "2026-08": 10,
+    "2026-09": 0
    }
   },
   "klasa 4 kotła na paliwo stałe": {
    "avg_monthly_searches": 10,
    "category": "paliwo_stale",
-   "competition": "UNSPECIFIED",
+   "competition": "LOW",
    "high_bid_micros": null,
    "low_bid_micros": null,
    "monthly": {
@@ -636,13 +647,14 @@
     "2026-05": 0,
     "2026-06": 10,
     "2026-07": 10,
-    "2026-08": 0
+    "2026-08": 0,
+    "2026-09": 10
    }
   },
   "klasa 5 kotła na paliwo stałe": {
    "avg_monthly_searches": 10,
    "category": "paliwo_stale",
-   "competition": "MEDIUM",
+   "competition": "HIGH",
    "high_bid_micros": null,
    "low_bid_micros": null,
    "monthly": {
@@ -689,7 +701,8 @@
     "2026-05": 10,
     "2026-06": 10,
     "2026-07": 10,
-    "2026-08": 10
+    "2026-08": 10,
+    "2026-09": 10
    }
   },
   "klasa b kotła na paliwo stałe": {
@@ -742,13 +755,14 @@
     "2026-05": 0,
     "2026-06": 0,
     "2026-07": 10,
-    "2026-08": 0
+    "2026-08": 0,
+    "2026-09": 0
    }
   },
   "klasa kotła na paliwa stałe": {
    "avg_monthly_searches": 70,
    "category": "paliwa_stale",
-   "competition": "LOW",
+   "competition": "MEDIUM",
    "high_bid_micros": null,
    "low_bid_micros": null,
    "monthly": {
@@ -795,7 +809,8 @@
     "2026-05": 70,
     "2026-06": 10,
     "2026-07": 20,
-    "2026-08": 20
+    "2026-08": 20,
+    "2026-09": 20
    }
   },
   "klasa kotła na paliwo stale": {
@@ -848,7 +863,8 @@
     "2026-05": 0,
     "2026-06": 0,
     "2026-07": 0,
-    "2026-08": 0
+    "2026-08": 0,
+    "2026-09": 0
    }
   },
   "klasa kotła na paliwo stałe ekogroszek": {
@@ -901,13 +917,14 @@
     "2026-05": 0,
     "2026-06": 0,
     "2026-07": 0,
-    "2026-08": 0
+    "2026-08": 0,
+    "2026-09": 0
    }
   },
   "klasa pieca na paliwo stałe": {
    "avg_monthly_searches": 10,
    "category": "paliwo_stale",
-   "competition": "UNSPECIFIED",
+   "competition": "LOW",
    "high_bid_micros": null,
    "low_bid_micros": null,
    "monthly": {
@@ -954,7 +971,8 @@
     "2026-05": 0,
     "2026-06": 0,
     "2026-07": 0,
-    "2026-08": 0
+    "2026-08": 0,
+    "2026-09": 10
    }
   },
   "klasy energetyczne kotłów na paliwo stałe": {
@@ -1007,7 +1025,8 @@
     "2026-05": 10,
     "2026-06": 0,
     "2026-07": 0,
-    "2026-08": 0
+    "2026-08": 0,
+    "2026-09": 0
    }
   },
   "klasyfikacja kotłów na paliwa stałe": {
@@ -1060,7 +1079,8 @@
     "2026-05": 10,
     "2026-06": 0,
     "2026-07": 10,
-    "2026-08": 10
+    "2026-08": 10,
+    "2026-09": 10
    }
   },
   "kociol na paliwo stale co to": {
@@ -1113,7 +1133,8 @@
     "2026-05": 10,
     "2026-06": 10,
     "2026-07": 10,
-    "2026-08": 10
+    "2026-08": 10,
+    "2026-09": 10
    }
   },
   "kociol na paliwo stale co to jest": {
@@ -1166,15 +1187,16 @@
     "2026-05": 10,
     "2026-06": 10,
     "2026-07": 10,
-    "2026-08": 10
+    "2026-08": 10,
+    "2026-09": 10
    }
   },
   "kociol na paliwo stale klasy 5": {
    "avg_monthly_searches": 20,
    "category": "paliwo_stale",
    "competition": "HIGH",
-   "high_bid_micros": null,
-   "low_bid_micros": null,
+   "high_bid_micros": 10625880,
+   "low_bid_micros": 2412855,
    "monthly": {
     "2023-01": 10,
     "2023-02": 10,
@@ -1219,15 +1241,16 @@
     "2026-05": 10,
     "2026-06": 20,
     "2026-07": 10,
-    "2026-08": 10
+    "2026-08": 10,
+    "2026-09": 20
    }
   },
   "kociol zgazowujący drewno": {
    "avg_monthly_searches": 170,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 8316781,
-   "low_bid_micros": 1967102,
+   "high_bid_micros": 7431306,
+   "low_bid_micros": 2567288,
    "monthly": {
     "2023-01": 140,
     "2023-02": 70,
@@ -1272,15 +1295,16 @@
     "2026-05": 90,
     "2026-06": 70,
     "2026-07": 140,
-    "2026-08": 140
+    "2026-08": 140,
+    "2026-09": 170
    }
   },
   "kocioł 5 klasa na drewno": {
    "avg_monthly_searches": 320,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 7972302,
-   "low_bid_micros": 978535,
+   "high_bid_micros": 7406001,
+   "low_bid_micros": 1040105,
    "monthly": {
     "2023-01": 480,
     "2023-02": 320,
@@ -1325,13 +1349,14 @@
     "2026-05": 170,
     "2026-06": 110,
     "2026-07": 140,
-    "2026-08": 140
+    "2026-08": 140,
+    "2026-09": 170
    }
   },
   "kocioł automatyczny na paliwo stałe": {
    "avg_monthly_searches": 10,
    "category": "paliwo_stale",
-   "competition": "UNSPECIFIED",
+   "competition": "HIGH",
    "high_bid_micros": null,
    "low_bid_micros": null,
    "monthly": {
@@ -1378,15 +1403,16 @@
     "2026-05": 0,
     "2026-06": 0,
     "2026-07": 0,
-    "2026-08": 0
+    "2026-08": 0,
+    "2026-09": 10
    }
   },
   "kocioł co na drewno": {
    "avg_monthly_searches": 260,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 8316781,
-   "low_bid_micros": 1070207,
+   "high_bid_micros": 7126460,
+   "low_bid_micros": 833181,
    "monthly": {
     "2023-01": 480,
     "2023-02": 260,
@@ -1431,15 +1457,16 @@
     "2026-05": 170,
     "2026-06": 110,
     "2026-07": 110,
-    "2026-08": 170
+    "2026-08": 170,
+    "2026-09": 260
    }
   },
   "kocioł co na paliwo stałe": {
    "avg_monthly_searches": 40,
    "category": "paliwo_stale",
-   "competition": "HIGH",
-   "high_bid_micros": 11507709,
-   "low_bid_micros": 2870151,
+   "competition": "MEDIUM",
+   "high_bid_micros": null,
+   "low_bid_micros": null,
    "monthly": {
     "2023-01": 10,
     "2023-02": 10,
@@ -1484,15 +1511,16 @@
     "2026-05": 50,
     "2026-06": 10,
     "2026-07": 20,
-    "2026-08": 10
+    "2026-08": 10,
+    "2026-09": 10
    }
   },
   "kocioł drewno pellet": {
-   "avg_monthly_searches": 210,
+   "avg_monthly_searches": 170,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 10942683,
-   "low_bid_micros": 3077285,
+   "high_bid_micros": 10542533,
+   "low_bid_micros": 3143110,
    "monthly": {
     "2023-01": 110,
     "2023-02": 50,
@@ -1537,7 +1565,8 @@
     "2026-05": 140,
     "2026-06": 110,
     "2026-07": 140,
-    "2026-08": 140
+    "2026-08": 140,
+    "2026-09": 140
    }
   },
   "kocioł gazowy i kocioł na paliwo stałe w jednym pomieszczeniu": {
@@ -1590,7 +1619,8 @@
     "2026-05": 10,
     "2026-06": 10,
     "2026-07": 10,
-    "2026-08": 10
+    "2026-08": 10,
+    "2026-09": 10
    }
   },
   "kocioł gazowy i na paliwo stałe w jednym pomieszczeniu": {
@@ -1643,7 +1673,8 @@
     "2026-05": 10,
     "2026-06": 10,
     "2026-07": 10,
-    "2026-08": 10
+    "2026-08": 10,
+    "2026-09": 10
    }
   },
   "kocioł gazowy na paliwo stałe": {
@@ -1696,13 +1727,14 @@
     "2026-05": 10,
     "2026-06": 0,
     "2026-07": 0,
-    "2026-08": 0
+    "2026-08": 0,
+    "2026-09": 0
    }
   },
   "kocioł gazowy z kotłem na paliwo stałe": {
    "avg_monthly_searches": 10,
    "category": "paliwo_stale",
-   "competition": "MEDIUM",
+   "competition": "UNSPECIFIED",
    "high_bid_micros": null,
    "low_bid_micros": null,
    "monthly": {
@@ -1749,13 +1781,14 @@
     "2026-05": 10,
     "2026-06": 10,
     "2026-07": 10,
-    "2026-08": 10
+    "2026-08": 10,
+    "2026-09": 0
    }
   },
   "kocioł grzewczy na paliwo stałe": {
    "avg_monthly_searches": 10,
    "category": "paliwo_stale",
-   "competition": "HIGH",
+   "competition": "MEDIUM",
    "high_bid_micros": null,
    "low_bid_micros": null,
    "monthly": {
@@ -1802,15 +1835,16 @@
     "2026-05": 10,
     "2026-06": 10,
     "2026-07": 10,
-    "2026-08": 10
+    "2026-08": 10,
+    "2026-09": 10
    }
   },
   "kocioł hybrydowy pellet drewno": {
    "avg_monthly_searches": 590,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 10279844,
-   "low_bid_micros": 3085388,
+   "high_bid_micros": 9326687,
+   "low_bid_micros": 3275909,
    "monthly": {
     "2023-01": 110,
     "2023-02": 110,
@@ -1855,7 +1889,8 @@
     "2026-05": 260,
     "2026-06": 320,
     "2026-07": 320,
-    "2026-08": 320
+    "2026-08": 320,
+    "2026-09": 320
    }
   },
   "kocioł klasy 5 na paliwo stałe": {
@@ -1908,13 +1943,14 @@
     "2026-05": 10,
     "2026-06": 10,
     "2026-07": 10,
-    "2026-08": 10
+    "2026-08": 10,
+    "2026-09": 10
    }
   },
   "kocioł klasy 5 na paliwo stałe bez podajnika": {
    "avg_monthly_searches": 10,
    "category": "paliwo_stale",
-   "competition": "UNSPECIFIED",
+   "competition": "HIGH",
    "high_bid_micros": null,
    "low_bid_micros": null,
    "monthly": {
@@ -1961,7 +1997,8 @@
     "2026-05": 0,
     "2026-06": 10,
     "2026-07": 0,
-    "2026-08": 0
+    "2026-08": 0,
+    "2026-09": 10
    }
   },
   "kocioł kondensacyjny na paliwo stałe": {
@@ -2014,15 +2051,16 @@
     "2026-05": 0,
     "2026-06": 0,
     "2026-07": 0,
-    "2026-08": 10
+    "2026-08": 10,
+    "2026-09": 10
    }
   },
   "kocioł na drewno": {
    "avg_monthly_searches": 2900,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 8316781,
-   "low_bid_micros": 1662229,
+   "high_bid_micros": 7626037,
+   "low_bid_micros": 1710287,
    "monthly": {
     "2023-01": 5400,
     "2023-02": 2400,
@@ -2067,15 +2105,16 @@
     "2026-05": 1600,
     "2026-06": 1300,
     "2026-07": 1600,
-    "2026-08": 1600
+    "2026-08": 1600,
+    "2026-09": 2900
    }
   },
   "kocioł na drewno 5 klasa": {
    "avg_monthly_searches": 720,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 7359934,
-   "low_bid_micros": 1658438,
+   "high_bid_micros": 7427526,
+   "low_bid_micros": 1595888,
    "monthly": {
     "2023-01": 1000,
     "2023-02": 590,
@@ -2120,15 +2159,16 @@
     "2026-05": 390,
     "2026-06": 320,
     "2026-07": 390,
-    "2026-08": 480
+    "2026-08": 480,
+    "2026-09": 720
    }
   },
   "kocioł na drewno i pellet": {
    "avg_monthly_searches": 880,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 10488808,
-   "low_bid_micros": 3017939,
+   "high_bid_micros": 9056368,
+   "low_bid_micros": 2860422,
    "monthly": {
     "2023-01": 590,
     "2023-02": 480,
@@ -2173,15 +2213,16 @@
     "2026-05": 590,
     "2026-06": 390,
     "2026-07": 480,
-    "2026-08": 480
+    "2026-08": 480,
+    "2026-09": 590
    }
   },
   "kocioł na drewno i węgiel": {
    "avg_monthly_searches": 390,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 7350791,
-   "low_bid_micros": 1115057,
+   "high_bid_micros": 7139571,
+   "low_bid_micros": 960692,
    "monthly": {
     "2023-01": 260,
     "2023-02": 210,
@@ -2226,15 +2267,16 @@
     "2026-05": 210,
     "2026-06": 210,
     "2026-07": 320,
-    "2026-08": 320
+    "2026-08": 320,
+    "2026-09": 590
    }
   },
   "kocioł na ekogroszek i drewno": {
    "avg_monthly_searches": 390,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 8335198,
-   "low_bid_micros": 1901495,
+   "high_bid_micros": 7237297,
+   "low_bid_micros": 1257803,
    "monthly": {
     "2023-01": 70,
     "2023-02": 40,
@@ -2279,15 +2321,16 @@
     "2026-05": 320,
     "2026-06": 210,
     "2026-07": 390,
-    "2026-08": 390
+    "2026-08": 390,
+    "2026-09": 590
    }
   },
   "kocioł na ekogroszek i pellet": {
    "avg_monthly_searches": 320,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 9186677,
-   "low_bid_micros": 1169610,
+   "high_bid_micros": 9649475,
+   "low_bid_micros": 1785898,
    "monthly": {
     "2023-01": 110,
     "2023-02": 90,
@@ -2332,15 +2375,16 @@
     "2026-05": 210,
     "2026-06": 140,
     "2026-07": 210,
-    "2026-08": 210
+    "2026-08": 210,
+    "2026-09": 210
    }
   },
   "kocioł na ekogroszek z rusztem na drewno": {
    "avg_monthly_searches": 170,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 7346956,
-   "low_bid_micros": 1674038,
+   "high_bid_micros": 7439064,
+   "low_bid_micros": 1198560,
    "monthly": {
     "2023-01": 40,
     "2023-02": 70,
@@ -2385,7 +2429,8 @@
     "2026-05": 210,
     "2026-06": 170,
     "2026-07": 110,
-    "2026-08": 210
+    "2026-08": 210,
+    "2026-09": 260
    }
   },
   "kocioł na gaz i paliwo stałe": {
@@ -2438,15 +2483,16 @@
     "2026-05": 0,
     "2026-06": 10,
     "2026-07": 0,
-    "2026-08": 10
+    "2026-08": 10,
+    "2026-09": 10
    }
   },
   "kocioł na paliwo stałe": {
    "avg_monthly_searches": 390,
    "category": "paliwo_stale",
    "competition": "HIGH",
-   "high_bid_micros": 10052830,
-   "low_bid_micros": 2803525,
+   "high_bid_micros": 11254847,
+   "low_bid_micros": 3270752,
    "monthly": {
     "2023-01": 3600,
     "2023-02": 2400,
@@ -2455,7 +2501,7 @@
     "2023-05": 590,
     "2023-06": 480,
     "2023-07": 480,
-    "2023-08": 720,
+    "2023-08": 590,
     "2023-09": 590,
     "2023-10": 720,
     "2023-11": 720,
@@ -2465,7 +2511,7 @@
     "2024-03": 4400,
     "2024-04": 4400,
     "2024-05": 1000,
-    "2024-06": 880,
+    "2024-06": 720,
     "2024-07": 480,
     "2024-08": 480,
     "2024-09": 480,
@@ -2473,7 +2519,7 @@
     "2024-11": 590,
     "2024-12": 720,
     "2025-01": 720,
-    "2025-02": 590,
+    "2025-02": 480,
     "2025-03": 480,
     "2025-04": 390,
     "2025-05": 390,
@@ -2484,20 +2530,21 @@
     "2025-10": 480,
     "2025-11": 480,
     "2025-12": 390,
-    "2026-01": 720,
+    "2026-01": 590,
     "2026-02": 590,
     "2026-03": 480,
     "2026-04": 320,
     "2026-05": 320,
-    "2026-06": 260,
+    "2026-06": 210,
     "2026-07": 260,
-    "2026-08": 210
+    "2026-08": 210,
+    "2026-09": 260
    }
   },
   "kocioł na paliwo stałe 10kw": {
    "avg_monthly_searches": 10,
    "category": "paliwo_stale",
-   "competition": "UNSPECIFIED",
+   "competition": "HIGH",
    "high_bid_micros": null,
    "low_bid_micros": null,
    "monthly": {
@@ -2544,13 +2591,14 @@
     "2026-05": 10,
     "2026-06": 0,
     "2026-07": 10,
-    "2026-08": 0
+    "2026-08": 0,
+    "2026-09": 10
    }
   },
   "kocioł na paliwo stałe 12kw": {
    "avg_monthly_searches": 10,
    "category": "paliwo_stale",
-   "competition": "HIGH",
+   "competition": "UNSPECIFIED",
    "high_bid_micros": null,
    "low_bid_micros": null,
    "monthly": {
@@ -2597,7 +2645,8 @@
     "2026-05": 10,
     "2026-06": 0,
     "2026-07": 0,
-    "2026-08": 10
+    "2026-08": 10,
+    "2026-09": 0
    }
   },
   "kocioł na paliwo stałe 15 kw": {
@@ -2650,13 +2699,14 @@
     "2026-05": 10,
     "2026-06": 10,
     "2026-07": 10,
-    "2026-08": 10
+    "2026-08": 10,
+    "2026-09": 10
    }
   },
   "kocioł na paliwo stałe 20 kw": {
    "avg_monthly_searches": 10,
    "category": "paliwo_stale",
-   "competition": "HIGH",
+   "competition": "MEDIUM",
    "high_bid_micros": null,
    "low_bid_micros": null,
    "monthly": {
@@ -2703,13 +2753,14 @@
     "2026-05": 10,
     "2026-06": 10,
     "2026-07": 10,
-    "2026-08": 10
+    "2026-08": 10,
+    "2026-09": 10
    }
   },
   "kocioł na paliwo stałe 25 kw": {
    "avg_monthly_searches": 20,
    "category": "paliwo_stale",
-   "competition": "MEDIUM",
+   "competition": "HIGH",
    "high_bid_micros": null,
    "low_bid_micros": null,
    "monthly": {
@@ -2756,7 +2807,8 @@
     "2026-05": 40,
     "2026-06": 10,
     "2026-07": 10,
-    "2026-08": 10
+    "2026-08": 10,
+    "2026-09": 10
    }
   },
   "kocioł na paliwo stałe 3 klasy": {
@@ -2809,13 +2861,14 @@
     "2026-05": 10,
     "2026-06": 10,
     "2026-07": 10,
-    "2026-08": 10
+    "2026-08": 10,
+    "2026-09": 10
    }
   },
   "kocioł na paliwo stałe 4 klasy": {
    "avg_monthly_searches": 10,
    "category": "paliwo_stale",
-   "competition": "LOW",
+   "competition": "UNSPECIFIED",
    "high_bid_micros": null,
    "low_bid_micros": null,
    "monthly": {
@@ -2862,7 +2915,8 @@
     "2026-05": 10,
     "2026-06": 0,
     "2026-07": 10,
-    "2026-08": 10
+    "2026-08": 10,
+    "2026-09": 0
    }
   },
   "kocioł na paliwo stałe 8 kw": {
@@ -2915,13 +2969,14 @@
     "2026-05": 10,
     "2026-06": 10,
     "2026-07": 10,
-    "2026-08": 10
+    "2026-08": 10,
+    "2026-09": 10
    }
   },
   "kocioł na paliwo stałe a ogrzewanie podłogowe": {
    "avg_monthly_searches": 10,
    "category": "paliwo_stale",
-   "competition": "UNSPECIFIED",
+   "competition": "LOW",
    "high_bid_micros": null,
    "low_bid_micros": null,
    "monthly": {
@@ -2968,13 +3023,14 @@
     "2026-05": 10,
     "2026-06": 0,
     "2026-07": 10,
-    "2026-08": 0
+    "2026-08": 0,
+    "2026-09": 10
    }
   },
   "kocioł na paliwo stałe biomasa": {
    "avg_monthly_searches": 10,
    "category": "paliwo_stale",
-   "competition": "MEDIUM",
+   "competition": "HIGH",
    "high_bid_micros": null,
    "low_bid_micros": null,
    "monthly": {
@@ -3021,7 +3077,8 @@
     "2026-05": 0,
     "2026-06": 10,
     "2026-07": 0,
-    "2026-08": 10
+    "2026-08": 10,
+    "2026-09": 10
    }
   },
   "kocioł na paliwo stałe cena": {
@@ -3074,7 +3131,8 @@
     "2026-05": 10,
     "2026-06": 10,
     "2026-07": 10,
-    "2026-08": 0
+    "2026-08": 0,
+    "2026-09": 0
    }
   },
   "kocioł na paliwo stałe co oznacza": {
@@ -3127,7 +3185,8 @@
     "2026-05": 0,
     "2026-06": 10,
     "2026-07": 0,
-    "2026-08": 10
+    "2026-08": 10,
+    "2026-09": 10
    }
   },
   "kocioł na paliwo stałe co to": {
@@ -3180,7 +3239,8 @@
     "2026-05": 50,
     "2026-06": 30,
     "2026-07": 40,
-    "2026-08": 40
+    "2026-08": 40,
+    "2026-09": 30
    }
   },
   "kocioł na paliwo stałe co to jest": {
@@ -3233,13 +3293,14 @@
     "2026-05": 10,
     "2026-06": 0,
     "2026-07": 10,
-    "2026-08": 10
+    "2026-08": 10,
+    "2026-09": 10
    }
   },
   "kocioł na paliwo stałe co to oznacza": {
    "avg_monthly_searches": 10,
    "category": "paliwo_stale",
-   "competition": "UNSPECIFIED",
+   "competition": "LOW",
    "high_bid_micros": null,
    "low_bid_micros": null,
    "monthly": {
@@ -3286,7 +3347,8 @@
     "2026-05": 10,
     "2026-06": 0,
     "2026-07": 0,
-    "2026-08": 0
+    "2026-08": 0,
+    "2026-09": 10
    }
   },
   "kocioł na paliwo stałe co to znaczy": {
@@ -3339,13 +3401,14 @@
     "2026-05": 10,
     "2026-06": 0,
     "2026-07": 10,
-    "2026-08": 10
+    "2026-08": 10,
+    "2026-09": 10
    }
   },
   "kocioł na paliwo stałe ekogroszek": {
    "avg_monthly_searches": 10,
    "category": "paliwo_stale",
-   "competition": "MEDIUM",
+   "competition": "LOW",
    "high_bid_micros": null,
    "low_bid_micros": null,
    "monthly": {
@@ -3392,13 +3455,14 @@
     "2026-05": 10,
     "2026-06": 10,
     "2026-07": 10,
-    "2026-08": 10
+    "2026-08": 10,
+    "2026-09": 10
    }
   },
   "kocioł na paliwo stałe gaz": {
    "avg_monthly_searches": 10,
    "category": "paliwo_stale",
-   "competition": "UNSPECIFIED",
+   "competition": "MEDIUM",
    "high_bid_micros": null,
    "low_bid_micros": null,
    "monthly": {
@@ -3445,7 +3509,8 @@
     "2026-05": 0,
     "2026-06": 10,
     "2026-07": 10,
-    "2026-08": 0
+    "2026-08": 0,
+    "2026-09": 10
    }
   },
   "kocioł na paliwo stałe w układzie zamkniętym schemat": {
@@ -3498,15 +3563,16 @@
     "2026-05": 20,
     "2026-06": 20,
     "2026-07": 30,
-    "2026-08": 20
+    "2026-08": 20,
+    "2026-09": 40
    }
   },
   "kocioł na pellet": {
    "avg_monthly_searches": 6600,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 17191157,
-   "low_bid_micros": 3631325,
+   "high_bid_micros": 12384331,
+   "low_bid_micros": 3428944,
    "monthly": {
     "2023-01": 3600,
     "2023-02": 3600,
@@ -3551,15 +3617,16 @@
     "2026-05": 3600,
     "2026-06": 2900,
     "2026-07": 2900,
-    "2026-08": 2400
+    "2026-08": 2400,
+    "2026-09": 2900
    }
   },
   "kocioł na pellet 10 kw": {
    "avg_monthly_searches": 480,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 13818910,
-   "low_bid_micros": 3099649,
+   "high_bid_micros": 11910256,
+   "low_bid_micros": 2238753,
    "monthly": {
     "2023-01": 210,
     "2023-02": 320,
@@ -3604,15 +3671,16 @@
     "2026-05": 260,
     "2026-06": 170,
     "2026-07": 210,
-    "2026-08": 170
+    "2026-08": 170,
+    "2026-09": 170
    }
   },
   "kocioł na pellet 15 kw": {
    "avg_monthly_searches": 320,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 12183289,
-   "low_bid_micros": 3064971,
+   "high_bid_micros": 14755185,
+   "low_bid_micros": 3652870,
    "monthly": {
     "2023-01": 210,
     "2023-02": 140,
@@ -3657,15 +3725,16 @@
     "2026-05": 110,
     "2026-06": 140,
     "2026-07": 110,
-    "2026-08": 90
+    "2026-08": 90,
+    "2026-09": 90
    }
   },
   "kocioł na pellet 8kw": {
-   "avg_monthly_searches": 480,
+   "avg_monthly_searches": 390,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 13510078,
-   "low_bid_micros": 3543335,
+   "high_bid_micros": 10359101,
+   "low_bid_micros": 2871523,
    "monthly": {
     "2023-01": 260,
     "2023-02": 320,
@@ -3710,15 +3779,16 @@
     "2026-05": 260,
     "2026-06": 210,
     "2026-07": 210,
-    "2026-08": 260
+    "2026-08": 260,
+    "2026-09": 210
    }
   },
   "kocioł na pellet i drewno": {
    "avg_monthly_searches": 3600,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 9541305,
-   "low_bid_micros": 2924676,
+   "high_bid_micros": 9322382,
+   "low_bid_micros": 2828123,
    "monthly": {
     "2023-01": 1300,
     "2023-02": 1300,
@@ -3763,15 +3833,16 @@
     "2026-05": 2400,
     "2026-06": 1900,
     "2026-07": 2400,
-    "2026-08": 1900
+    "2026-08": 1900,
+    "2026-09": 2400
    }
   },
   "kocioł na pellet i ekogroszek": {
    "avg_monthly_searches": 390,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 8915363,
-   "low_bid_micros": 1607401,
+   "high_bid_micros": 7572672,
+   "low_bid_micros": 2129620,
    "monthly": {
     "2023-01": 140,
     "2023-02": 140,
@@ -3816,15 +3887,16 @@
     "2026-05": 320,
     "2026-06": 260,
     "2026-07": 390,
-    "2026-08": 260
+    "2026-08": 260,
+    "2026-09": 320
    }
   },
   "kocioł na pellet z rusztem na drewno": {
    "avg_monthly_searches": 210,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 10731159,
-   "low_bid_micros": 3027692,
+   "high_bid_micros": 8126335,
+   "low_bid_micros": 2761079,
    "monthly": {
     "2023-01": 880,
     "2023-02": 720,
@@ -3869,15 +3941,16 @@
     "2026-05": 170,
     "2026-06": 90,
     "2026-07": 90,
-    "2026-08": 140
+    "2026-08": 140,
+    "2026-09": 90
    }
   },
   "kocioł na zgazowanie drewna": {
    "avg_monthly_searches": 720,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 12421656,
-   "low_bid_micros": 2490961,
+   "high_bid_micros": 8033329,
+   "low_bid_micros": 2742351,
    "monthly": {
     "2023-01": 260,
     "2023-02": 260,
@@ -3922,15 +3995,16 @@
     "2026-05": 390,
     "2026-06": 390,
     "2026-07": 480,
-    "2026-08": 480
+    "2026-08": 480,
+    "2026-09": 720
    }
   },
   "kocioł pellet": {
    "avg_monthly_searches": 390,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 18112683,
-   "low_bid_micros": 4637824,
+   "high_bid_micros": 14403158,
+   "low_bid_micros": 3808790,
    "monthly": {
     "2023-01": 390,
     "2023-02": 390,
@@ -3975,15 +4049,16 @@
     "2026-05": 260,
     "2026-06": 110,
     "2026-07": 170,
-    "2026-08": 140
+    "2026-08": 140,
+    "2026-09": 170
    }
   },
   "kocioł pellet drewno": {
    "avg_monthly_searches": 260,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 12779841,
-   "low_bid_micros": 3219939,
+   "high_bid_micros": 10119900,
+   "low_bid_micros": 3038806,
    "monthly": {
     "2023-01": 110,
     "2023-02": 90,
@@ -4028,15 +4103,16 @@
     "2026-05": 170,
     "2026-06": 260,
     "2026-07": 210,
-    "2026-08": 210
+    "2026-08": 210,
+    "2026-09": 170
    }
   },
   "kocioł zgazowujący drewno": {
    "avg_monthly_searches": 4400,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 9359537,
-   "low_bid_micros": 2368219,
+   "high_bid_micros": 7626037,
+   "low_bid_micros": 1745689,
    "monthly": {
     "2023-01": 3600,
     "2023-02": 3600,
@@ -4081,15 +4157,16 @@
     "2026-05": 2400,
     "2026-06": 1900,
     "2026-07": 2400,
-    "2026-08": 2900
+    "2026-08": 2900,
+    "2026-09": 4400
    }
   },
   "kocioł zgazowujący drewno o podwyższonym standardzie": {
    "avg_monthly_searches": 210,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 9483211,
-   "low_bid_micros": 3469041,
+   "high_bid_micros": 11029501,
+   "low_bid_micros": 4681088,
    "monthly": {
     "2023-01": 210,
     "2023-02": 210,
@@ -4134,15 +4211,16 @@
     "2026-05": 140,
     "2026-06": 90,
     "2026-07": 170,
-    "2026-08": 170
+    "2026-08": 170,
+    "2026-09": 140
    }
   },
   "kotly na drewno 5 klasa": {
    "avg_monthly_searches": 210,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 8316781,
-   "low_bid_micros": 1759816,
+   "high_bid_micros": 7918777,
+   "low_bid_micros": 1583147,
    "monthly": {
     "2023-01": 590,
     "2023-02": 390,
@@ -4187,15 +4265,16 @@
     "2026-05": 140,
     "2026-06": 90,
     "2026-07": 90,
-    "2026-08": 90
+    "2026-08": 90,
+    "2026-09": 110
    }
   },
   "kotły co na paliwa stałe": {
    "avg_monthly_searches": 30,
    "category": "paliwa_stale",
-   "competition": "MEDIUM",
-   "high_bid_micros": null,
-   "low_bid_micros": null,
+   "competition": "HIGH",
+   "high_bid_micros": 44076835,
+   "low_bid_micros": 7716791,
    "monthly": {
     "2023-01": 10,
     "2023-02": 10,
@@ -4240,15 +4319,16 @@
     "2026-05": 40,
     "2026-06": 10,
     "2026-07": 20,
-    "2026-08": 10
+    "2026-08": 10,
+    "2026-09": 10
    }
   },
   "kotły co na pellet": {
-   "avg_monthly_searches": 390,
+   "avg_monthly_searches": 320,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 11919691,
-   "low_bid_micros": 3236455,
+   "high_bid_micros": 9936052,
+   "low_bid_micros": 3163739,
    "monthly": {
     "2023-01": 210,
     "2023-02": 260,
@@ -4266,11 +4346,11 @@
     "2024-02": 260,
     "2024-03": 210,
     "2024-04": 320,
-    "2024-05": 320,
+    "2024-05": 260,
     "2024-06": 210,
     "2024-07": 210,
     "2024-08": 260,
-    "2024-09": 260,
+    "2024-09": 210,
     "2024-10": 320,
     "2024-11": 480,
     "2024-12": 320,
@@ -4278,7 +4358,7 @@
     "2025-02": 320,
     "2025-03": 320,
     "2025-04": 390,
-    "2025-05": 390,
+    "2025-05": 320,
     "2025-06": 260,
     "2025-07": 210,
     "2025-08": 260,
@@ -4293,7 +4373,8 @@
     "2026-05": 260,
     "2026-06": 110,
     "2026-07": 140,
-    "2026-08": 90
+    "2026-08": 90,
+    "2026-09": 50
    }
   },
   "kotły grzewcze na paliwo stałe": {
@@ -4346,15 +4427,16 @@
     "2026-05": 30,
     "2026-06": 10,
     "2026-07": 20,
-    "2026-08": 10
+    "2026-08": 10,
+    "2026-09": 10
    }
   },
   "kotły na drewno": {
    "avg_monthly_searches": 720,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 8673416,
-   "low_bid_micros": 3192552,
+   "high_bid_micros": 7603353,
+   "low_bid_micros": 2228788,
    "monthly": {
     "2023-01": 1300,
     "2023-02": 720,
@@ -4399,24 +4481,25 @@
     "2026-05": 390,
     "2026-06": 320,
     "2026-07": 390,
-    "2026-08": 390
+    "2026-08": 390,
+    "2026-09": 720
    }
   },
   "kotły na drewno i pellet": {
-   "avg_monthly_searches": 260,
+   "avg_monthly_searches": 210,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 11823567,
-   "low_bid_micros": 3271787,
+   "high_bid_micros": 12593528,
+   "low_bid_micros": 3947380,
    "monthly": {
     "2023-01": 90,
     "2023-02": 70,
-    "2023-03": 90,
+    "2023-03": 70,
     "2023-04": 170,
-    "2023-05": 110,
-    "2023-06": 70,
+    "2023-05": 70,
+    "2023-06": 50,
     "2023-07": 70,
-    "2023-08": 90,
+    "2023-08": 70,
     "2023-09": 70,
     "2023-10": 140,
     "2023-11": 110,
@@ -4426,94 +4509,96 @@
     "2024-03": 320,
     "2024-04": 210,
     "2024-05": 170,
-    "2024-06": 210,
+    "2024-06": 170,
     "2024-07": 110,
-    "2024-08": 140,
+    "2024-08": 110,
     "2024-09": 170,
-    "2024-10": 170,
+    "2024-10": 140,
     "2024-11": 210,
     "2024-12": 260,
     "2025-01": 260,
-    "2025-02": 260,
-    "2025-03": 210,
+    "2025-02": 210,
+    "2025-03": 170,
     "2025-04": 170,
     "2025-05": 210,
     "2025-06": 90,
     "2025-07": 110,
-    "2025-08": 170,
+    "2025-08": 140,
     "2025-09": 140,
     "2025-10": 210,
     "2025-11": 170,
     "2025-12": 210,
     "2026-01": 390,
-    "2026-02": 590,
+    "2026-02": 480,
     "2026-03": 260,
-    "2026-04": 210,
+    "2026-04": 170,
     "2026-05": 210,
-    "2026-06": 170,
-    "2026-07": 170,
-    "2026-08": 140
+    "2026-06": 140,
+    "2026-07": 140,
+    "2026-08": 110,
+    "2026-09": 110
    }
   },
   "kotły na paliwa stałe": {
    "avg_monthly_searches": 90,
    "category": "paliwa_stale",
-   "competition": "MEDIUM",
-   "high_bid_micros": 10430568,
-   "low_bid_micros": 2934284,
+   "competition": "HIGH",
+   "high_bid_micros": 15557882,
+   "low_bid_micros": 5665906,
    "monthly": {
-    "2023-01": 70,
+    "2023-01": 110,
     "2023-02": 70,
     "2023-03": 50,
-    "2023-04": 50,
+    "2023-04": 70,
     "2023-05": 50,
     "2023-06": 40,
-    "2023-07": 40,
-    "2023-08": 50,
-    "2023-09": 50,
-    "2023-10": 40,
+    "2023-07": 50,
+    "2023-08": 90,
+    "2023-09": 70,
+    "2023-10": 50,
     "2023-11": 110,
     "2023-12": 90,
-    "2024-01": 110,
-    "2024-02": 110,
-    "2024-03": 90,
-    "2024-04": 50,
+    "2024-01": 210,
+    "2024-02": 260,
+    "2024-03": 140,
+    "2024-04": 110,
     "2024-05": 30,
-    "2024-06": 40,
+    "2024-06": 50,
     "2024-07": 30,
     "2024-08": 40,
-    "2024-09": 30,
+    "2024-09": 40,
     "2024-10": 50,
-    "2024-11": 70,
+    "2024-11": 90,
     "2024-12": 70,
-    "2025-01": 70,
+    "2025-01": 90,
     "2025-02": 90,
     "2025-03": 70,
-    "2025-04": 70,
+    "2025-04": 90,
     "2025-05": 90,
-    "2025-06": 50,
+    "2025-06": 70,
     "2025-07": 40,
-    "2025-08": 50,
+    "2025-08": 70,
     "2025-09": 50,
     "2025-10": 140,
     "2025-11": 140,
-    "2025-12": 70,
+    "2025-12": 90,
     "2026-01": 110,
-    "2026-02": 90,
+    "2026-02": 110,
     "2026-03": 110,
-    "2026-04": 90,
+    "2026-04": 110,
     "2026-05": 70,
     "2026-06": 40,
     "2026-07": 40,
-    "2026-08": 50
+    "2026-08": 50,
+    "2026-09": 30
    }
   },
   "kotły na paliwa stałe klasy 5": {
    "avg_monthly_searches": 10,
    "category": "paliwa_stale",
    "competition": "HIGH",
-   "high_bid_micros": null,
-   "low_bid_micros": null,
+   "high_bid_micros": 9834371,
+   "low_bid_micros": 3644172,
    "monthly": {
     "2023-01": 10,
     "2023-02": 10,
@@ -4558,13 +4643,14 @@
     "2026-05": 10,
     "2026-06": 10,
     "2026-07": 10,
-    "2026-08": 10
+    "2026-08": 10,
+    "2026-09": 10
    }
   },
   "kotły na paliwa stałe rodzaje": {
    "avg_monthly_searches": 10,
    "category": "paliwa_stale",
-   "competition": "UNSPECIFIED",
+   "competition": "LOW",
    "high_bid_micros": null,
    "low_bid_micros": null,
    "monthly": {
@@ -4611,15 +4697,16 @@
     "2026-05": 0,
     "2026-06": 10,
     "2026-07": 0,
-    "2026-08": 0
+    "2026-08": 0,
+    "2026-09": 10
    }
   },
   "kotły na paliwo stałe": {
    "avg_monthly_searches": 110,
    "category": "paliwo_stale",
    "competition": "HIGH",
-   "high_bid_micros": 14324365,
-   "low_bid_micros": 3436216,
+   "high_bid_micros": 9992170,
+   "low_bid_micros": 2652339,
    "monthly": {
     "2023-01": 170,
     "2023-02": 140,
@@ -4664,15 +4751,16 @@
     "2026-05": 90,
     "2026-06": 40,
     "2026-07": 70,
-    "2026-08": 30
+    "2026-08": 30,
+    "2026-09": 50
    }
   },
   "kotły na paliwo stałe 5 klasy": {
    "avg_monthly_searches": 170,
    "category": "paliwo_stale",
    "competition": "HIGH",
-   "high_bid_micros": 12812849,
-   "low_bid_micros": 2085251,
+   "high_bid_micros": 10021978,
+   "low_bid_micros": 2453850,
    "monthly": {
     "2023-01": 390,
     "2023-02": 390,
@@ -4717,15 +4805,16 @@
     "2026-05": 140,
     "2026-06": 50,
     "2026-07": 90,
-    "2026-08": 90
+    "2026-08": 90,
+    "2026-09": 90
    }
   },
   "kotły na pellet": {
    "avg_monthly_searches": 3600,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 19948858,
-   "low_bid_micros": 4100952,
+   "high_bid_micros": 17081175,
+   "low_bid_micros": 4370494,
    "monthly": {
     "2023-01": 3600,
     "2023-02": 3600,
@@ -4770,15 +4859,16 @@
     "2026-05": 2400,
     "2026-06": 1900,
     "2026-07": 1900,
-    "2026-08": 1600
+    "2026-08": 1600,
+    "2026-09": 1300
    }
   },
   "kotły na pellet i drewno": {
    "avg_monthly_searches": 1300,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 10972932,
-   "low_bid_micros": 3080489,
+   "high_bid_micros": 10664210,
+   "low_bid_micros": 3188476,
    "monthly": {
     "2023-01": 390,
     "2023-02": 590,
@@ -4823,15 +4913,16 @@
     "2026-05": 880,
     "2026-06": 880,
     "2026-07": 720,
-    "2026-08": 590
+    "2026-08": 590,
+    "2026-09": 720
    }
   },
   "kotły na węgiel i drewno": {
    "avg_monthly_searches": 480,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 8316781,
-   "low_bid_micros": 2029264,
+   "high_bid_micros": 7413190,
+   "low_bid_micros": 1138050,
    "monthly": {
     "2023-01": 210,
     "2023-02": 210,
@@ -4876,15 +4967,16 @@
     "2026-05": 320,
     "2026-06": 390,
     "2026-07": 320,
-    "2026-08": 480
+    "2026-08": 590,
+    "2026-09": 720
    }
   },
   "kotły zgazowujące drewno": {
    "avg_monthly_searches": 880,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 13074171,
-   "low_bid_micros": 3728912,
+   "high_bid_micros": 9223192,
+   "low_bid_micros": 3058496,
    "monthly": {
     "2023-01": 720,
     "2023-02": 480,
@@ -4929,15 +5021,16 @@
     "2026-05": 480,
     "2026-06": 320,
     "2026-07": 480,
-    "2026-08": 480
+    "2026-08": 480,
+    "2026-09": 720
    }
   },
   "kotły zgazowujące drewno 5 klasy": {
    "avg_monthly_searches": 210,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 12880644,
-   "low_bid_micros": 4558792,
+   "high_bid_micros": 8909517,
+   "low_bid_micros": 3022657,
    "monthly": {
     "2023-01": 210,
     "2023-02": 210,
@@ -4982,15 +5075,16 @@
     "2026-05": 110,
     "2026-06": 70,
     "2026-07": 70,
-    "2026-08": 70
+    "2026-08": 70,
+    "2026-09": 140
    }
   },
   "małe piece na pellet": {
    "avg_monthly_searches": 390,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 7441820,
-   "low_bid_micros": 3078344,
+   "high_bid_micros": 7611155,
+   "low_bid_micros": 2958147,
    "monthly": {
     "2023-01": 320,
     "2023-02": 320,
@@ -5035,15 +5129,16 @@
     "2026-05": 170,
     "2026-06": 140,
     "2026-07": 170,
-    "2026-08": 170
+    "2026-08": 170,
+    "2026-09": 210
    }
   },
   "mały piec na pellet": {
    "avg_monthly_searches": 1300,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 8090281,
-   "low_bid_micros": 2116564,
+   "high_bid_micros": 8369119,
+   "low_bid_micros": 2903800,
    "monthly": {
     "2023-01": 720,
     "2023-02": 720,
@@ -5088,13 +5183,14 @@
     "2026-05": 720,
     "2026-06": 480,
     "2026-07": 480,
-    "2026-08": 480
+    "2026-08": 480,
+    "2026-09": 880
    }
   },
   "nowoczesne kotly na paliwa stale": {
    "avg_monthly_searches": 10,
    "category": "paliwa_stale",
-   "competition": "UNSPECIFIED",
+   "competition": "MEDIUM",
    "high_bid_micros": null,
    "low_bid_micros": null,
    "monthly": {
@@ -5141,13 +5237,14 @@
     "2026-05": 10,
     "2026-06": 10,
     "2026-07": 10,
-    "2026-08": 0
+    "2026-08": 0,
+    "2026-09": 10
    }
   },
   "nowoczesne kotły na paliwo stałe": {
    "avg_monthly_searches": 30,
    "category": "paliwo_stale",
-   "competition": "LOW",
+   "competition": "UNSPECIFIED",
    "high_bid_micros": null,
    "low_bid_micros": null,
    "monthly": {
@@ -5194,15 +5291,16 @@
     "2026-05": 30,
     "2026-06": 10,
     "2026-07": 20,
-    "2026-08": 10
+    "2026-08": 10,
+    "2026-09": 0
    }
   },
   "nowoczesne piece na drewno": {
    "avg_monthly_searches": 170,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 8756747,
-   "low_bid_micros": 3638367,
+   "high_bid_micros": 7638318,
+   "low_bid_micros": 3836127,
    "monthly": {
     "2023-01": 720,
     "2023-02": 480,
@@ -5247,15 +5345,16 @@
     "2026-05": 50,
     "2026-06": 50,
     "2026-07": 70,
-    "2026-08": 50
+    "2026-08": 50,
+    "2026-09": 140
    }
   },
   "pellet piec": {
-   "avg_monthly_searches": 320,
+   "avg_monthly_searches": 260,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 13321234,
-   "low_bid_micros": 3948594,
+   "high_bid_micros": 11494966,
+   "low_bid_micros": 3296363,
    "monthly": {
     "2023-01": 170,
     "2023-02": 210,
@@ -5300,15 +5399,16 @@
     "2026-05": 170,
     "2026-06": 110,
     "2026-07": 140,
-    "2026-08": 110
+    "2026-08": 110,
+    "2026-09": 170
    }
   },
   "piec centralny na drewno": {
    "avg_monthly_searches": 210,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 8123254,
-   "low_bid_micros": 466160,
+   "high_bid_micros": 6995802,
+   "low_bid_micros": 292062,
    "monthly": {
     "2023-01": 210,
     "2023-02": 140,
@@ -5353,15 +5453,16 @@
     "2026-05": 110,
     "2026-06": 70,
     "2026-07": 90,
-    "2026-08": 110
+    "2026-08": 110,
+    "2026-09": 170
    }
   },
   "piec co na drewno": {
    "avg_monthly_searches": 1600,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 7346956,
-   "low_bid_micros": 579477,
+   "high_bid_micros": 7025850,
+   "low_bid_micros": 352879,
    "monthly": {
     "2023-01": 2900,
     "2023-02": 2400,
@@ -5406,15 +5507,16 @@
     "2026-05": 880,
     "2026-06": 590,
     "2026-07": 880,
-    "2026-08": 880
+    "2026-08": 880,
+    "2026-09": 1300
    }
   },
   "piec co na drewno i węgiel": {
    "avg_monthly_searches": 1600,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 7346956,
-   "low_bid_micros": 578870,
+   "high_bid_micros": 6893684,
+   "low_bid_micros": 293024,
    "monthly": {
     "2023-01": 3600,
     "2023-02": 3600,
@@ -5459,15 +5561,16 @@
     "2026-05": 1300,
     "2026-06": 1000,
     "2026-07": 880,
-    "2026-08": 1300
+    "2026-08": 1300,
+    "2026-09": 2400
    }
   },
   "piec co na drewno i węgiel 15 kw": {
    "avg_monthly_searches": 210,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 7346956,
-   "low_bid_micros": 464470,
+   "high_bid_micros": 6926900,
+   "low_bid_micros": 347350,
    "monthly": {
     "2023-01": 880,
     "2023-02": 590,
@@ -5512,15 +5615,16 @@
     "2026-05": 110,
     "2026-06": 110,
     "2026-07": 140,
-    "2026-08": 90
+    "2026-08": 90,
+    "2026-09": 90
    }
   },
   "piec co na paliwa stałe": {
    "avg_monthly_searches": 10,
    "category": "paliwa_stale",
    "competition": "HIGH",
-   "high_bid_micros": 8911165,
-   "low_bid_micros": 1365026,
+   "high_bid_micros": 7682395,
+   "low_bid_micros": 1499801,
    "monthly": {
     "2023-01": 40,
     "2023-02": 20,
@@ -5565,15 +5669,16 @@
     "2026-05": 10,
     "2026-06": 20,
     "2026-07": 10,
-    "2026-08": 10
+    "2026-08": 10,
+    "2026-09": 10
    }
   },
   "piec co na pellet": {
    "avg_monthly_searches": 390,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 12488652,
-   "low_bid_micros": 2879637,
+   "high_bid_micros": 8793413,
+   "low_bid_micros": 2358834,
    "monthly": {
     "2023-01": 320,
     "2023-02": 320,
@@ -5618,15 +5723,16 @@
     "2026-05": 170,
     "2026-06": 110,
     "2026-07": 90,
-    "2026-08": 70
+    "2026-08": 70,
+    "2026-09": 70
    }
   },
   "piec co na węgiel i drewno": {
    "avg_monthly_searches": 320,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 7346956,
-   "low_bid_micros": 1116855,
+   "high_bid_micros": 6893072,
+   "low_bid_micros": 658905,
    "monthly": {
     "2023-01": 140,
     "2023-02": 140,
@@ -5671,15 +5777,16 @@
     "2026-05": 140,
     "2026-06": 140,
     "2026-07": 110,
-    "2026-08": 110
+    "2026-08": 110,
+    "2026-09": 260
    }
   },
   "piec do centralnego ogrzewania na węgiel drzewo": {
    "avg_monthly_searches": 590,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 7355623,
-   "low_bid_micros": 640122,
+   "high_bid_micros": 7287974,
+   "low_bid_micros": 699508,
    "monthly": {
     "2023-01": 1000,
     "2023-02": 880,
@@ -5724,15 +5831,16 @@
     "2026-05": 320,
     "2026-06": 260,
     "2026-07": 260,
-    "2026-08": 260
+    "2026-08": 260,
+    "2026-09": 390
    }
   },
   "piec do zgazowania drewna": {
    "avg_monthly_searches": 590,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 9359537,
-   "low_bid_micros": 1595539,
+   "high_bid_micros": 7291164,
+   "low_bid_micros": 1771082,
    "monthly": {
     "2023-01": 480,
     "2023-02": 390,
@@ -5777,15 +5885,16 @@
     "2026-05": 260,
     "2026-06": 210,
     "2026-07": 260,
-    "2026-08": 260
+    "2026-08": 260,
+    "2026-09": 590
    }
   },
   "piec kominkowy na drewno": {
    "avg_monthly_searches": 260,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 8348783,
-   "low_bid_micros": 1475895,
+   "high_bid_micros": 5752246,
+   "low_bid_micros": 1100135,
    "monthly": {
     "2023-01": 260,
     "2023-02": 170,
@@ -5830,15 +5939,16 @@
     "2026-05": 170,
     "2026-06": 90,
     "2026-07": 210,
-    "2026-08": 210
+    "2026-08": 210,
+    "2026-09": 480
    }
   },
   "piec na drewno": {
    "avg_monthly_searches": 9900,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 7915167,
-   "low_bid_micros": 859888,
+   "high_bid_micros": 7310460,
+   "low_bid_micros": 1066547,
    "monthly": {
     "2023-01": 12100,
     "2023-02": 9900,
@@ -5883,15 +5993,16 @@
     "2026-05": 5400,
     "2026-06": 3600,
     "2026-07": 5400,
-    "2026-08": 6600
+    "2026-08": 6600,
+    "2026-09": 12100
    }
   },
   "piec na drewno i pellet": {
    "avg_monthly_searches": 2400,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 8864842,
-   "low_bid_micros": 2623908,
+   "high_bid_micros": 9239932,
+   "low_bid_micros": 2630312,
    "monthly": {
     "2023-01": 880,
     "2023-02": 880,
@@ -5936,15 +6047,16 @@
     "2026-05": 1000,
     "2026-06": 1000,
     "2026-07": 1300,
-    "2026-08": 1300
+    "2026-08": 1300,
+    "2026-09": 1600
    }
   },
   "piec na drewno i pellet 5 klasy": {
    "avg_monthly_searches": 170,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 11148561,
-   "low_bid_micros": 3476451,
+   "high_bid_micros": 9164911,
+   "low_bid_micros": 3100278,
    "monthly": {
     "2023-01": 70,
     "2023-02": 90,
@@ -5989,15 +6101,16 @@
     "2026-05": 170,
     "2026-06": 140,
     "2026-07": 140,
-    "2026-08": 90
+    "2026-08": 90,
+    "2026-09": 90
    }
   },
   "piec na drewno i węgiel": {
    "avg_monthly_searches": 1900,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 7350033,
-   "low_bid_micros": 606994,
+   "high_bid_micros": 6998424,
+   "low_bid_micros": 403053,
    "monthly": {
     "2023-01": 1900,
     "2023-02": 1600,
@@ -6042,15 +6155,16 @@
     "2026-05": 1000,
     "2026-06": 880,
     "2026-07": 1600,
-    "2026-08": 1600
+    "2026-08": 1600,
+    "2026-09": 2900
    }
   },
   "piec na drewno z buforem": {
    "avg_monthly_searches": 170,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 8316781,
-   "low_bid_micros": 1932890,
+   "high_bid_micros": 7536375,
+   "low_bid_micros": 1840945,
    "monthly": {
     "2023-01": 390,
     "2023-02": 320,
@@ -6095,15 +6209,16 @@
     "2026-05": 70,
     "2026-06": 70,
     "2026-07": 140,
-    "2026-08": 170
+    "2026-08": 170,
+    "2026-09": 260
    }
   },
   "piec na drewno z podajnikiem": {
    "avg_monthly_searches": 260,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 7346956,
-   "low_bid_micros": 2317952,
+   "high_bid_micros": 7512511,
+   "low_bid_micros": 1510749,
    "monthly": {
     "2023-01": 590,
     "2023-02": 480,
@@ -6148,15 +6263,16 @@
     "2026-05": 110,
     "2026-06": 70,
     "2026-07": 110,
-    "2026-08": 140
+    "2026-08": 140,
+    "2026-09": 210
    }
   },
   "piec na drewno z płaszczem wodnym": {
    "avg_monthly_searches": 480,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 7346956,
-   "low_bid_micros": 466160,
+   "high_bid_micros": 7497542,
+   "low_bid_micros": 341974,
    "monthly": {
     "2023-01": 320,
     "2023-02": 260,
@@ -6201,15 +6317,16 @@
     "2026-05": 320,
     "2026-06": 260,
     "2026-07": 320,
-    "2026-08": 320
+    "2026-08": 320,
+    "2026-09": 590
    }
   },
   "piec na drewno zgazowane": {
-   "avg_monthly_searches": 480,
+   "avg_monthly_searches": 590,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 7455723,
-   "low_bid_micros": 1421382,
+   "high_bid_micros": 7117544,
+   "low_bid_micros": 1585682,
    "monthly": {
     "2023-01": 170,
     "2023-02": 260,
@@ -6254,15 +6371,16 @@
     "2026-05": 320,
     "2026-06": 260,
     "2026-07": 480,
-    "2026-08": 590
+    "2026-08": 590,
+    "2026-09": 1000
    }
   },
   "piec na drzewo zgazowane": {
    "avg_monthly_searches": 320,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 8386418,
-   "low_bid_micros": 2167346,
+   "high_bid_micros": 7441424,
+   "low_bid_micros": 1662123,
    "monthly": {
     "2023-01": 320,
     "2023-02": 210,
@@ -6307,15 +6425,16 @@
     "2026-05": 170,
     "2026-06": 140,
     "2026-07": 170,
-    "2026-08": 210
+    "2026-08": 210,
+    "2026-09": 320
    }
   },
   "piec na ekogroszek i drewno": {
    "avg_monthly_searches": 2400,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 7805403,
-   "low_bid_micros": 2516268,
+   "high_bid_micros": 6967306,
+   "low_bid_micros": 1648487,
    "monthly": {
     "2023-01": 1900,
     "2023-02": 1600,
@@ -6360,15 +6479,16 @@
     "2026-05": 1900,
     "2026-06": 1300,
     "2026-07": 1900,
-    "2026-08": 2400
+    "2026-08": 2400,
+    "2026-09": 2900
    }
   },
   "piec na ekogroszek i pellet": {
    "avg_monthly_searches": 720,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 8327025,
-   "low_bid_micros": 1203378,
+   "high_bid_micros": 7474094,
+   "low_bid_micros": 1003458,
    "monthly": {
     "2023-01": 390,
     "2023-02": 390,
@@ -6413,15 +6533,16 @@
     "2026-05": 390,
     "2026-06": 390,
     "2026-07": 590,
-    "2026-08": 480
+    "2026-08": 480,
+    "2026-09": 590
    }
   },
   "piec na ekogroszek z rusztem na drewno": {
    "avg_monthly_searches": 880,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 7245967,
-   "low_bid_micros": 1261394,
+   "high_bid_micros": 6950588,
+   "low_bid_micros": 463213,
    "monthly": {
     "2023-01": 880,
     "2023-02": 720,
@@ -6466,15 +6587,16 @@
     "2026-05": 880,
     "2026-06": 720,
     "2026-07": 590,
-    "2026-08": 720
+    "2026-08": 720,
+    "2026-09": 880
    }
   },
   "piec na paliwa stałe 5 klasy": {
    "avg_monthly_searches": 140,
    "category": "paliwa_stale",
    "competition": "HIGH",
-   "high_bid_micros": 14642627,
-   "low_bid_micros": 680877,
+   "high_bid_micros": 7331439,
+   "low_bid_micros": 1042203,
    "monthly": {
     "2023-01": 170,
     "2023-02": 90,
@@ -6519,15 +6641,16 @@
     "2026-05": 90,
     "2026-06": 70,
     "2026-07": 70,
-    "2026-08": 70
+    "2026-08": 70,
+    "2026-09": 90
    }
   },
   "piec na paliwo stałe": {
    "avg_monthly_searches": 390,
    "category": "paliwo_stale",
    "competition": "HIGH",
-   "high_bid_micros": 9240457,
-   "low_bid_micros": 1115339,
+   "high_bid_micros": 10704200,
+   "low_bid_micros": 3294222,
    "monthly": {
     "2023-01": 590,
     "2023-02": 390,
@@ -6572,15 +6695,16 @@
     "2026-05": 260,
     "2026-06": 210,
     "2026-07": 260,
-    "2026-08": 260
+    "2026-08": 260,
+    "2026-09": 320
    }
   },
   "piec na pellet": {
    "avg_monthly_searches": 49500,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 14019058,
-   "low_bid_micros": 3176432,
+   "high_bid_micros": 11583535,
+   "low_bid_micros": 3163739,
    "monthly": {
     "2023-01": 27100,
     "2023-02": 27100,
@@ -6625,15 +6749,16 @@
     "2026-05": 22200,
     "2026-06": 18100,
     "2026-07": 18100,
-    "2026-08": 18100
+    "2026-08": 18100,
+    "2026-09": 22200
    }
   },
   "piec na pellet 10 kw": {
-   "avg_monthly_searches": 1600,
+   "avg_monthly_searches": 1300,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 12753442,
-   "low_bid_micros": 2157528,
+   "high_bid_micros": 11440224,
+   "low_bid_micros": 2225052,
    "monthly": {
     "2023-01": 1300,
     "2023-02": 1300,
@@ -6678,15 +6803,16 @@
     "2026-05": 720,
     "2026-06": 590,
     "2026-07": 590,
-    "2026-08": 590
+    "2026-08": 590,
+    "2026-09": 590
    }
   },
   "piec na pellet 10 kw z podajnikiem": {
    "avg_monthly_searches": 260,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 17486935,
-   "low_bid_micros": 3944671,
+   "high_bid_micros": 12653710,
+   "low_bid_micros": 2878844,
    "monthly": {
     "2023-01": 90,
     "2023-02": 110,
@@ -6731,15 +6857,16 @@
     "2026-05": 170,
     "2026-06": 170,
     "2026-07": 90,
-    "2026-08": 110
+    "2026-08": 110,
+    "2026-09": 110
    }
   },
   "piec na pellet 12 kw": {
    "avg_monthly_searches": 480,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 14896904,
-   "low_bid_micros": 2340000,
+   "high_bid_micros": 14023138,
+   "low_bid_micros": 1555635,
    "monthly": {
     "2023-01": 210,
     "2023-02": 210,
@@ -6784,15 +6911,16 @@
     "2026-05": 320,
     "2026-06": 260,
     "2026-07": 210,
-    "2026-08": 170
+    "2026-08": 170,
+    "2026-09": 170
    }
   },
   "piec na pellet 12kw": {
    "avg_monthly_searches": 720,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 13038541,
-   "low_bid_micros": 2393990,
+   "high_bid_micros": 14148136,
+   "low_bid_micros": 2994008,
    "monthly": {
     "2023-01": 480,
     "2023-02": 480,
@@ -6837,15 +6965,16 @@
     "2026-05": 320,
     "2026-06": 320,
     "2026-07": 320,
-    "2026-08": 260
+    "2026-08": 260,
+    "2026-09": 320
    }
   },
   "piec na pellet 15 kw": {
    "avg_monthly_searches": 1300,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 14033871,
-   "low_bid_micros": 2898385,
+   "high_bid_micros": 12029900,
+   "low_bid_micros": 2761079,
    "monthly": {
     "2023-01": 590,
     "2023-02": 590,
@@ -6890,15 +7019,16 @@
     "2026-05": 480,
     "2026-06": 390,
     "2026-07": 390,
-    "2026-08": 320
+    "2026-08": 320,
+    "2026-09": 390
    }
   },
   "piec na pellet 18kw": {
    "avg_monthly_searches": 260,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 12451893,
-   "low_bid_micros": 2410181,
+   "high_bid_micros": 18261663,
+   "low_bid_micros": 3345270,
    "monthly": {
     "2023-01": 110,
     "2023-02": 90,
@@ -6943,15 +7073,16 @@
     "2026-05": 170,
     "2026-06": 50,
     "2026-07": 70,
-    "2026-08": 50
+    "2026-08": 50,
+    "2026-09": 50
    }
   },
   "piec na pellet 20kw": {
    "avg_monthly_searches": 880,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 16005568,
-   "low_bid_micros": 2223958,
+   "high_bid_micros": 14685912,
+   "low_bid_micros": 2723514,
    "monthly": {
     "2023-01": 480,
     "2023-02": 480,
@@ -6996,15 +7127,16 @@
     "2026-05": 320,
     "2026-06": 320,
     "2026-07": 320,
-    "2026-08": 210
+    "2026-08": 210,
+    "2026-09": 320
    }
   },
   "piec na pellet 25kw": {
    "avg_monthly_searches": 590,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 16402504,
-   "low_bid_micros": 2428257,
+   "high_bid_micros": 14830315,
+   "low_bid_micros": 2299395,
    "monthly": {
     "2023-01": 320,
     "2023-02": 390,
@@ -7049,15 +7181,16 @@
     "2026-05": 260,
     "2026-06": 210,
     "2026-07": 210,
-    "2026-08": 170
+    "2026-08": 170,
+    "2026-09": 170
    }
   },
   "piec na pellet 30 kw": {
    "avg_monthly_searches": 260,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 15481991,
-   "low_bid_micros": 3825204,
+   "high_bid_micros": 14819345,
+   "low_bid_micros": 3738970,
    "monthly": {
     "2023-01": 140,
     "2023-02": 210,
@@ -7102,15 +7235,16 @@
     "2026-05": 70,
     "2026-06": 70,
     "2026-07": 70,
-    "2026-08": 70
+    "2026-08": 70,
+    "2026-09": 90
    }
   },
   "piec na pellet 5 klasy": {
-   "avg_monthly_searches": 260,
+   "avg_monthly_searches": 210,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 10839615,
-   "low_bid_micros": 3044836,
+   "high_bid_micros": 9917762,
+   "low_bid_micros": 2475201,
    "monthly": {
     "2023-01": 110,
     "2023-02": 170,
@@ -7155,15 +7289,16 @@
     "2026-05": 110,
     "2026-06": 110,
     "2026-07": 90,
-    "2026-08": 90
+    "2026-08": 90,
+    "2026-09": 110
    }
   },
   "piec na pellet 8 kw": {
    "avg_monthly_searches": 590,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 13331074,
-   "low_bid_micros": 1570165,
+   "high_bid_micros": 11120125,
+   "low_bid_micros": 1313549,
    "monthly": {
     "2023-01": 260,
     "2023-02": 210,
@@ -7208,15 +7343,16 @@
     "2026-05": 320,
     "2026-06": 320,
     "2026-07": 260,
-    "2026-08": 210
+    "2026-08": 210,
+    "2026-09": 260
    }
   },
   "piec na pellet 8kw": {
    "avg_monthly_searches": 880,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 12267405,
-   "low_bid_micros": 1607683,
+   "high_bid_micros": 12572702,
+   "low_bid_micros": 2237770,
    "monthly": {
     "2023-01": 720,
     "2023-02": 720,
@@ -7261,15 +7397,16 @@
     "2026-05": 390,
     "2026-06": 390,
     "2026-07": 390,
-    "2026-08": 390
+    "2026-08": 390,
+    "2026-09": 390
    }
   },
   "piec na pellet cena": {
    "avg_monthly_searches": 1600,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 7316826,
-   "low_bid_micros": 2674255,
+   "high_bid_micros": 7594175,
+   "low_bid_micros": 2708523,
    "monthly": {
     "2023-01": 880,
     "2023-02": 1000,
@@ -7314,15 +7451,16 @@
     "2026-05": 1000,
     "2026-06": 590,
     "2026-07": 880,
-    "2026-08": 590
+    "2026-08": 590,
+    "2026-09": 590
    }
   },
   "piec na pellet do mieszkania 50m2": {
-   "avg_monthly_searches": 260,
+   "avg_monthly_searches": 210,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 11920645,
-   "low_bid_micros": 3902840,
+   "high_bid_micros": 9921258,
+   "low_bid_micros": 3056791,
    "monthly": {
     "2023-01": 210,
     "2023-02": 170,
@@ -7367,15 +7505,16 @@
     "2026-05": 90,
     "2026-06": 90,
     "2026-07": 110,
-    "2026-08": 90
+    "2026-08": 90,
+    "2026-09": 140
    }
   },
   "piec na pellet do mieszkania 60m2": {
    "avg_monthly_searches": 390,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 9718208,
-   "low_bid_micros": 3497387,
+   "high_bid_micros": 10844495,
+   "low_bid_micros": 1877942,
    "monthly": {
     "2023-01": 590,
     "2023-02": 590,
@@ -7420,15 +7559,16 @@
     "2026-05": 110,
     "2026-06": 110,
     "2026-07": 110,
-    "2026-08": 70
+    "2026-08": 70,
+    "2026-09": 90
    }
   },
   "piec na pellet i drewno": {
    "avg_monthly_searches": 18100,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 8322632,
-   "low_bid_micros": 2741948,
+   "high_bid_micros": 8597743,
+   "low_bid_micros": 2770497,
    "monthly": {
     "2023-01": 6600,
     "2023-02": 6600,
@@ -7473,15 +7613,16 @@
     "2026-05": 9900,
     "2026-06": 8100,
     "2026-07": 9900,
-    "2026-08": 8100
+    "2026-08": 8100,
+    "2026-09": 12100
    }
   },
   "piec na pellet i drewno 12kw": {
    "avg_monthly_searches": 260,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 9618356,
-   "low_bid_micros": 2700502,
+   "high_bid_micros": 11028627,
+   "low_bid_micros": 3217256,
    "monthly": {
     "2023-01": 260,
     "2023-02": 260,
@@ -7526,15 +7667,16 @@
     "2026-05": 170,
     "2026-06": 170,
     "2026-07": 140,
-    "2026-08": 140
+    "2026-08": 140,
+    "2026-09": 170
    }
   },
   "piec na pellet i drewno 15 kw": {
    "avg_monthly_searches": 480,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 10962983,
-   "low_bid_micros": 2907922,
+   "high_bid_micros": 8565117,
+   "low_bid_micros": 2566764,
    "monthly": {
     "2023-01": 260,
     "2023-02": 260,
@@ -7579,15 +7721,16 @@
     "2026-05": 260,
     "2026-06": 260,
     "2026-07": 210,
-    "2026-08": 210
+    "2026-08": 210,
+    "2026-09": 170
    }
   },
   "piec na pellet i drewno 20kw": {
-   "avg_monthly_searches": 390,
+   "avg_monthly_searches": 320,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 10236387,
-   "low_bid_micros": 2779742,
+   "high_bid_micros": 12319800,
+   "low_bid_micros": 2475201,
    "monthly": {
     "2023-01": 110,
     "2023-02": 140,
@@ -7632,15 +7775,16 @@
     "2026-05": 170,
     "2026-06": 140,
     "2026-07": 140,
-    "2026-08": 110
+    "2026-08": 110,
+    "2026-09": 110
    }
   },
   "piec na pellet i drewno 5 klasy": {
-   "avg_monthly_searches": 390,
+   "avg_monthly_searches": 320,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 8319526,
-   "low_bid_micros": 2908355,
+   "high_bid_micros": 9421200,
+   "low_bid_micros": 2677623,
    "monthly": {
     "2023-01": 140,
     "2023-02": 140,
@@ -7685,15 +7829,16 @@
     "2026-05": 170,
     "2026-06": 110,
     "2026-07": 140,
-    "2026-08": 90
+    "2026-08": 90,
+    "2026-09": 90
    }
   },
   "piec na pellet i drewno cena": {
    "avg_monthly_searches": 480,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 7349922,
-   "low_bid_micros": 2913752,
+   "high_bid_micros": 8842975,
+   "low_bid_micros": 2792831,
    "monthly": {
     "2023-01": 390,
     "2023-02": 390,
@@ -7738,15 +7883,16 @@
     "2026-05": 320,
     "2026-06": 260,
     "2026-07": 320,
-    "2026-08": 260
+    "2026-08": 260,
+    "2026-09": 390
    }
   },
   "piec na pellet i drewno z podajnikiem": {
    "avg_monthly_searches": 480,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 11136635,
-   "low_bid_micros": 2971253,
+   "high_bid_micros": 10422539,
+   "low_bid_micros": 3122393,
    "monthly": {
     "2023-01": 170,
     "2023-02": 210,
@@ -7791,15 +7937,16 @@
     "2026-05": 320,
     "2026-06": 260,
     "2026-07": 320,
-    "2026-08": 320
+    "2026-08": 320,
+    "2026-09": 320
    }
   },
   "piec na pellet i drzewo": {
    "avg_monthly_searches": 480,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 9320145,
-   "low_bid_micros": 2578478,
+   "high_bid_micros": 9641214,
+   "low_bid_micros": 1650694,
    "monthly": {
     "2023-01": 170,
     "2023-02": 140,
@@ -7844,15 +7991,16 @@
     "2026-05": 320,
     "2026-06": 260,
     "2026-07": 320,
-    "2026-08": 320
+    "2026-08": 320,
+    "2026-09": 320
    }
   },
   "piec na pellet i ekogroszek": {
    "avg_monthly_searches": 1000,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 8361443,
-   "low_bid_micros": 1302514,
+   "high_bid_micros": 7244574,
+   "low_bid_micros": 1607776,
    "monthly": {
     "2023-01": 720,
     "2023-02": 720,
@@ -7897,15 +8045,16 @@
     "2026-05": 720,
     "2026-06": 590,
     "2026-07": 880,
-    "2026-08": 880
+    "2026-08": 880,
+    "2026-09": 880
    }
   },
   "piec na pellet sas": {
    "avg_monthly_searches": 480,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 9547201,
-   "low_bid_micros": 839256,
+   "high_bid_micros": 10836650,
+   "low_bid_micros": 535961,
    "monthly": {
     "2023-01": 260,
     "2023-02": 260,
@@ -7950,15 +8099,16 @@
     "2026-05": 260,
     "2026-06": 210,
     "2026-07": 210,
-    "2026-08": 140
+    "2026-08": 140,
+    "2026-09": 170
    }
   },
   "piec na pellet z nadmuchem": {
    "avg_monthly_searches": 720,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 13248258,
-   "low_bid_micros": 1507224,
+   "high_bid_micros": 11387450,
+   "low_bid_micros": 1223669,
    "monthly": {
     "2023-01": 170,
     "2023-02": 210,
@@ -8003,15 +8153,16 @@
     "2026-05": 320,
     "2026-06": 260,
     "2026-07": 260,
-    "2026-08": 320
+    "2026-08": 320,
+    "2026-09": 480
    }
   },
   "piec na pellet z podajnikiem": {
    "avg_monthly_searches": 3600,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 12592839,
-   "low_bid_micros": 2852523,
+   "high_bid_micros": 11120059,
+   "low_bid_micros": 2999034,
    "monthly": {
     "2023-01": 2400,
     "2023-02": 2400,
@@ -8056,15 +8207,16 @@
     "2026-05": 1300,
     "2026-06": 1300,
     "2026-07": 1300,
-    "2026-08": 1300
+    "2026-08": 1300,
+    "2026-09": 1600
    }
   },
   "piec na pellet z podajnikiem cena": {
    "avg_monthly_searches": 260,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 8343042,
-   "low_bid_micros": 2527025,
+   "high_bid_micros": 8255900,
+   "low_bid_micros": 2616829,
    "monthly": {
     "2023-01": 1000,
     "2023-02": 1000,
@@ -8109,15 +8261,16 @@
     "2026-05": 90,
     "2026-06": 70,
     "2026-07": 90,
-    "2026-08": 110
+    "2026-08": 110,
+    "2026-09": 140
    }
   },
   "piec na pellet z podajnikiem na 150m2": {
-   "avg_monthly_searches": 390,
+   "avg_monthly_searches": 320,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 11682362,
-   "low_bid_micros": 3241526,
+   "high_bid_micros": 11825642,
+   "low_bid_micros": 3289130,
    "monthly": {
     "2023-01": 170,
     "2023-02": 210,
@@ -8162,15 +8315,16 @@
     "2026-05": 140,
     "2026-06": 140,
     "2026-07": 170,
-    "2026-08": 140
+    "2026-08": 140,
+    "2026-09": 170
    }
   },
   "piec na pellet z rusztem na drewno": {
    "avg_monthly_searches": 2900,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 8319526,
-   "low_bid_micros": 2658520,
+   "high_bid_micros": 8534305,
+   "low_bid_micros": 2894250,
    "monthly": {
     "2023-01": 1300,
     "2023-02": 1300,
@@ -8215,15 +8369,16 @@
     "2026-05": 1900,
     "2026-06": 1300,
     "2026-07": 1300,
-    "2026-08": 1600
+    "2026-08": 1600,
+    "2026-09": 1600
    }
   },
   "piec na wegiel i drzewo": {
-   "avg_monthly_searches": 1600,
+   "avg_monthly_searches": 1900,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 7345829,
-   "low_bid_micros": 581210,
+   "high_bid_micros": 6988197,
+   "low_bid_micros": 295318,
    "monthly": {
     "2023-01": 1600,
     "2023-02": 1300,
@@ -8268,15 +8423,16 @@
     "2026-05": 880,
     "2026-06": 720,
     "2026-07": 880,
-    "2026-08": 1600
+    "2026-08": 1600,
+    "2026-09": 2400
    }
   },
   "piec na węgiel i drewno": {
    "avg_monthly_searches": 720,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 7315778,
-   "low_bid_micros": 581752,
+   "high_bid_micros": 6854830,
+   "low_bid_micros": 257404,
    "monthly": {
     "2023-01": 880,
     "2023-02": 720,
@@ -8321,15 +8477,16 @@
     "2026-05": 390,
     "2026-06": 320,
     "2026-07": 390,
-    "2026-08": 590
+    "2026-08": 590,
+    "2026-09": 880
    }
   },
   "piec na zgazowanie drewna": {
    "avg_monthly_searches": 1900,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 8099507,
-   "low_bid_micros": 1696506,
+   "high_bid_micros": 7185025,
+   "low_bid_micros": 1951520,
    "monthly": {
     "2023-01": 880,
     "2023-02": 880,
@@ -8374,15 +8531,16 @@
     "2026-05": 1000,
     "2026-06": 720,
     "2026-07": 1300,
-    "2026-08": 1600
+    "2026-08": 1600,
+    "2026-09": 2400
    }
   },
   "piec nadmuchowy na pellet": {
-   "avg_monthly_searches": 880,
+   "avg_monthly_searches": 720,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 9600670,
-   "low_bid_micros": 463908,
+   "high_bid_micros": 8488064,
+   "low_bid_micros": 225171,
    "monthly": {
     "2023-01": 260,
     "2023-02": 260,
@@ -8427,15 +8585,16 @@
     "2026-05": 260,
     "2026-06": 170,
     "2026-07": 260,
-    "2026-08": 320
+    "2026-08": 320,
+    "2026-09": 480
    }
   },
   "piec pellet": {
-   "avg_monthly_searches": 1300,
+   "avg_monthly_searches": 1000,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 15395708,
-   "low_bid_micros": 3130274,
+   "high_bid_micros": 12771912,
+   "low_bid_micros": 3389850,
    "monthly": {
     "2023-01": 880,
     "2023-02": 880,
@@ -8480,15 +8639,16 @@
     "2026-05": 590,
     "2026-06": 480,
     "2026-07": 480,
-    "2026-08": 480
+    "2026-08": 480,
+    "2026-09": 590
    }
   },
   "piec pellet drewno": {
    "avg_monthly_searches": 880,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 8695178,
-   "low_bid_micros": 2871098,
+   "high_bid_micros": 8866708,
+   "low_bid_micros": 2556165,
    "monthly": {
     "2023-01": 390,
     "2023-02": 390,
@@ -8533,15 +8693,16 @@
     "2026-05": 720,
     "2026-06": 590,
     "2026-07": 590,
-    "2026-08": 720
+    "2026-08": 720,
+    "2026-09": 720
    }
   },
   "piec z podajnikiem na węgiel i drewno": {
    "avg_monthly_searches": 210,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 7349751,
-   "low_bid_micros": 2106441,
+   "high_bid_micros": 7626037,
+   "low_bid_micros": 1492043,
    "monthly": {
     "2023-01": 260,
     "2023-02": 210,
@@ -8586,15 +8747,16 @@
     "2026-05": 170,
     "2026-06": 90,
     "2026-07": 110,
-    "2026-08": 210
+    "2026-08": 210,
+    "2026-09": 260
    }
   },
   "piec zgazowujący": {
    "avg_monthly_searches": 320,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 15962068,
-   "low_bid_micros": 2155126,
+   "high_bid_micros": 8182037,
+   "low_bid_micros": 1847544,
    "monthly": {
     "2023-01": 260,
     "2023-02": 210,
@@ -8639,15 +8801,16 @@
     "2026-05": 170,
     "2026-06": 170,
     "2026-07": 210,
-    "2026-08": 210
+    "2026-08": 210,
+    "2026-09": 390
    }
   },
   "piec zgazowujący drewno": {
    "avg_monthly_searches": 6600,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 8316781,
-   "low_bid_micros": 2021616,
+   "high_bid_micros": 7195078,
+   "low_bid_micros": 1339095,
    "monthly": {
     "2023-01": 4400,
     "2023-02": 4400,
@@ -8692,15 +8855,16 @@
     "2026-05": 3600,
     "2026-06": 2900,
     "2026-07": 3600,
-    "2026-08": 4400
+    "2026-08": 4400,
+    "2026-09": 6600
    }
   },
   "piec zgazowujący drewno cena": {
    "avg_monthly_searches": 390,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 8512692,
-   "low_bid_micros": 1761636,
+   "high_bid_micros": 7267979,
+   "low_bid_micros": 1747393,
    "monthly": {
     "2023-01": 210,
     "2023-02": 170,
@@ -8745,15 +8909,16 @@
     "2026-05": 170,
     "2026-06": 170,
     "2026-07": 140,
-    "2026-08": 210
+    "2026-08": 210,
+    "2026-09": 320
    }
   },
   "piec zgazowujący drewno i pellet": {
-   "avg_monthly_searches": 390,
+   "avg_monthly_searches": 480,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 10715009,
-   "low_bid_micros": 3070221,
+   "high_bid_micros": 10258971,
+   "low_bid_micros": 3487226,
    "monthly": {
     "2023-01": 140,
     "2023-02": 140,
@@ -8798,15 +8963,16 @@
     "2026-05": 260,
     "2026-06": 210,
     "2026-07": 320,
-    "2026-08": 320
+    "2026-08": 320,
+    "2026-09": 480
    }
   },
   "piec zgazowujący drewno z buforem": {
    "avg_monthly_searches": 1600,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 8316781,
-   "low_bid_micros": 1953885,
+   "high_bid_micros": 8123822,
+   "low_bid_micros": 2625220,
    "monthly": {
     "2023-01": 1300,
     "2023-02": 1300,
@@ -8851,15 +9017,16 @@
     "2026-05": 880,
     "2026-06": 720,
     "2026-07": 880,
-    "2026-08": 880
+    "2026-08": 880,
+    "2026-09": 1600
    }
   },
   "piece co na drewno": {
    "avg_monthly_searches": 260,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 8316781,
-   "low_bid_micros": 940575,
+   "high_bid_micros": 7230523,
+   "low_bid_micros": 688450,
    "monthly": {
     "2023-01": 480,
     "2023-02": 390,
@@ -8904,13 +9071,14 @@
     "2026-05": 170,
     "2026-06": 90,
     "2026-07": 140,
-    "2026-08": 140
+    "2026-08": 140,
+    "2026-09": 210
    }
   },
   "piece co na paliwa stałe": {
    "avg_monthly_searches": 10,
    "category": "paliwa_stale",
-   "competition": "HIGH",
+   "competition": "MEDIUM",
    "high_bid_micros": null,
    "low_bid_micros": null,
    "monthly": {
@@ -8957,15 +9125,16 @@
     "2026-05": 10,
     "2026-06": 0,
     "2026-07": 10,
-    "2026-08": 10
+    "2026-08": 10,
+    "2026-09": 10
    }
   },
   "piece na drewno i pellet": {
    "avg_monthly_searches": 260,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 8416492,
-   "low_bid_micros": 2881136,
+   "high_bid_micros": 9626595,
+   "low_bid_micros": 2933716,
    "monthly": {
     "2023-01": 110,
     "2023-02": 170,
@@ -9010,15 +9179,16 @@
     "2026-05": 170,
     "2026-06": 140,
     "2026-07": 140,
-    "2026-08": 110
+    "2026-08": 110,
+    "2026-09": 210
    }
   },
   "piece na drzewo": {
    "avg_monthly_searches": 210,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 9318284,
-   "low_bid_micros": 2464246,
+   "high_bid_micros": 7190357,
+   "low_bid_micros": 2418230,
    "monthly": {
     "2023-01": 210,
     "2023-02": 210,
@@ -9063,15 +9233,16 @@
     "2026-05": 110,
     "2026-06": 70,
     "2026-07": 110,
-    "2026-08": 90
+    "2026-08": 90,
+    "2026-09": 320
    }
   },
   "piece na paliwa stałe": {
    "avg_monthly_searches": 40,
    "category": "paliwa_stale",
-   "competition": "MEDIUM",
-   "high_bid_micros": 7225406,
-   "low_bid_micros": 1991065,
+   "competition": "HIGH",
+   "high_bid_micros": 6788222,
+   "low_bid_micros": 3578833,
    "monthly": {
     "2023-01": 10,
     "2023-02": 20,
@@ -9116,15 +9287,16 @@
     "2026-05": 50,
     "2026-06": 10,
     "2026-07": 20,
-    "2026-08": 20
+    "2026-08": 20,
+    "2026-09": 10
    }
   },
   "piece na paliwo stałe": {
    "avg_monthly_searches": 90,
    "category": "paliwo_stale",
    "competition": "HIGH",
-   "high_bid_micros": 7649901,
-   "low_bid_micros": 4498970,
+   "high_bid_micros": 11335702,
+   "low_bid_micros": 2766695,
    "monthly": {
     "2023-01": 70,
     "2023-02": 50,
@@ -9169,15 +9341,16 @@
     "2026-05": 70,
     "2026-06": 30,
     "2026-07": 30,
-    "2026-08": 30
+    "2026-08": 30,
+    "2026-09": 20
    }
   },
   "piece na paliwo stałe 5 klasy": {
    "avg_monthly_searches": 20,
    "category": "paliwo_stale",
    "competition": "HIGH",
-   "high_bid_micros": 9146250,
-   "low_bid_micros": 1958695,
+   "high_bid_micros": 11799812,
+   "low_bid_micros": 3866066,
    "monthly": {
     "2023-01": 40,
     "2023-02": 20,
@@ -9222,15 +9395,16 @@
     "2026-05": 10,
     "2026-06": 10,
     "2026-07": 10,
-    "2026-08": 10
+    "2026-08": 10,
+    "2026-09": 10
    }
   },
   "piece na węgiel i drewno ceny": {
    "avg_monthly_searches": 210,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 7347736,
-   "low_bid_micros": 2617278,
+   "high_bid_micros": 6640847,
+   "low_bid_micros": 838011,
    "monthly": {
     "2023-01": 1000,
     "2023-02": 1000,
@@ -9275,15 +9449,16 @@
     "2026-05": 170,
     "2026-06": 110,
     "2026-07": 90,
-    "2026-08": 210
+    "2026-08": 210,
+    "2026-09": 210
    }
   },
   "piece zgazowujące drewno": {
    "avg_monthly_searches": 480,
    "category": "drewno",
    "competition": "HIGH",
-   "high_bid_micros": 10666887,
-   "low_bid_micros": 2851322,
+   "high_bid_micros": 9125882,
+   "low_bid_micros": 2451621,
    "monthly": {
     "2023-01": 480,
     "2023-02": 390,
@@ -9328,15 +9503,16 @@
     "2026-05": 210,
     "2026-06": 170,
     "2026-07": 210,
-    "2026-08": 260
+    "2026-08": 260,
+    "2026-09": 320
    }
   },
   "piecyk na pellet z płaszczem wodnym": {
    "avg_monthly_searches": 1000,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 12313982,
-   "low_bid_micros": 579668,
+   "high_bid_micros": 8251595,
+   "low_bid_micros": 176985,
    "monthly": {
     "2023-01": 480,
     "2023-02": 480,
@@ -9381,7 +9557,8 @@
     "2026-05": 480,
     "2026-06": 320,
     "2026-07": 390,
-    "2026-08": 480
+    "2026-08": 480,
+    "2026-09": 480
    }
   },
   "pompa ciepła i kocioł na paliwo stałe": {
@@ -9434,15 +9611,16 @@
     "2026-05": 10,
     "2026-06": 10,
     "2026-07": 10,
-    "2026-08": 10
+    "2026-08": 10,
+    "2026-09": 10
    }
   },
   "uniwersalny piec na pellet ekogroszek i drewno": {
    "avg_monthly_searches": 480,
    "category": "pellet",
    "competition": "HIGH",
-   "high_bid_micros": 7865653,
-   "low_bid_micros": 2564802,
+   "high_bid_micros": 7614608,
+   "low_bid_micros": 2648865,
    "monthly": {
     "2023-01": 260,
     "2023-02": 260,
@@ -9487,13 +9665,14 @@
     "2026-05": 480,
     "2026-06": 480,
     "2026-07": 390,
-    "2026-08": 320
+    "2026-08": 320,
+    "2026-09": 390
    }
   },
   "zabezpieczenie kotła na paliwo stałe w układzie zamkniętym": {
    "avg_monthly_searches": 40,
    "category": "paliwo_stale",
-   "competition": "MEDIUM",
+   "competition": "HIGH",
    "high_bid_micros": null,
    "low_bid_micros": null,
    "monthly": {
@@ -9540,7 +9719,8 @@
     "2026-05": 20,
     "2026-06": 20,
     "2026-07": 20,
-    "2026-08": 40
+    "2026-08": 40,
+    "2026-09": 50
    }
   }
  },
@@ -9553,8 +9733,17 @@
    "months_from": "2022-10",
    "months_to": "2026-08",
    "note": "init z raw/ (přes site/data_PL.json)"
+  },
+  {
+   "added_months": 1,
+   "changed_cells": 44,
+   "date": "2026-10-15",
+   "keywords": 180,
+   "months_from": "2022-10",
+   "months_to": "2026-09",
+   "note": "měsíční aktualizace"
   }
  ],
  "source": "Google Ads Keyword Planner, language_id 1030, geo 2616, GOOGLE_SEARCH",
- "updated": "2026-10-08"
+ "updated": "2026-10-15"
 }
