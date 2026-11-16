@@ -7,8 +7,8 @@
    "avg_monthly_searches": 20,
    "category": "tuhe_paliva",
    "competition": "HIGH",
-   "high_bid_micros": 15238701,
-   "low_bid_micros": 2492472,
+   "high_bid_micros": 8662995,
+   "low_bid_micros": 3523286,
    "monthly": {
     "2023-01": 50,
     "2023-02": 40,
@@ -54,15 +54,16 @@
     "2026-06": 10,
     "2026-07": 10,
     "2026-08": 20,
-    "2026-09": 20
+    "2026-09": 20,
+    "2026-10": 30
    }
   },
   "automaticky kotol na drevo": {
    "avg_monthly_searches": 10,
    "category": "drevo",
    "competition": "HIGH",
-   "high_bid_micros": 11892743,
-   "low_bid_micros": 4427755,
+   "high_bid_micros": 8218398,
+   "low_bid_micros": 3220891,
    "monthly": {
     "2023-01": 10,
     "2023-02": 20,
@@ -108,15 +109,16 @@
     "2026-06": 10,
     "2026-07": 10,
     "2026-08": 10,
-    "2026-09": 10
+    "2026-09": 10,
+    "2026-10": 10
    }
   },
   "automaticky kotol na tuhe palivo": {
    "avg_monthly_searches": 10,
    "category": "tuhe_paliva",
    "competition": "HIGH",
-   "high_bid_micros": 8723674,
-   "low_bid_micros": 4312614,
+   "high_bid_micros": null,
+   "low_bid_micros": null,
    "monthly": {
     "2023-01": 30,
     "2023-02": 10,
@@ -162,7 +164,8 @@
     "2026-06": 10,
     "2026-07": 0,
     "2026-08": 10,
-    "2026-09": 10
+    "2026-09": 10,
+    "2026-10": 10
    }
   },
   "automatické kotly na pelety": {
@@ -216,15 +219,16 @@
     "2026-06": 0,
     "2026-07": 0,
     "2026-08": 10,
-    "2026-09": 10
+    "2026-09": 10,
+    "2026-10": 10
    }
   },
   "automatický kotol na pelety": {
-   "avg_monthly_searches": 70,
+   "avg_monthly_searches": 50,
    "category": "pelety",
    "competition": "HIGH",
-   "high_bid_micros": 17018407,
-   "low_bid_micros": 5442069,
+   "high_bid_micros": 8572561,
+   "low_bid_micros": 4217825,
    "monthly": {
     "2023-01": 30,
     "2023-02": 10,
@@ -270,15 +274,16 @@
     "2026-06": 30,
     "2026-07": 10,
     "2026-08": 30,
-    "2026-09": 40
+    "2026-09": 40,
+    "2026-10": 20
    }
   },
   "automatický kotol na pelety a drevo cena": {
-   "avg_monthly_searches": 140,
+   "avg_monthly_searches": 110,
    "category": "pelety",
    "competition": "HIGH",
-   "high_bid_micros": 17896290,
-   "low_bid_micros": 4237211,
+   "high_bid_micros": 11509183,
+   "low_bid_micros": 3723496,
    "monthly": {
     "2023-01": 90,
     "2023-02": 90,
@@ -324,15 +329,16 @@
     "2026-06": 50,
     "2026-07": 90,
     "2026-08": 50,
-    "2026-09": 90
+    "2026-09": 90,
+    "2026-10": 110
    }
   },
   "bazos kotle na drevo": {
    "avg_monthly_searches": 10,
    "category": "drevo",
    "competition": "MEDIUM",
-   "high_bid_micros": null,
-   "low_bid_micros": null,
+   "high_bid_micros": 18121209,
+   "low_bid_micros": 4957978,
    "monthly": {
     "2023-01": 20,
     "2023-02": 10,
@@ -378,69 +384,71 @@
     "2026-06": 0,
     "2026-07": 0,
     "2026-08": 10,
-    "2026-09": 10
+    "2026-09": 10,
+    "2026-10": 10
    }
   },
   "bazos kotle na tuhe palivo": {
    "avg_monthly_searches": 10,
    "category": "tuhe_paliva",
    "competition": "HIGH",
-   "high_bid_micros": null,
-   "low_bid_micros": null,
+   "high_bid_micros": 6630040,
+   "low_bid_micros": 2815690,
    "monthly": {
-    "2023-01": 90,
-    "2023-02": 90,
-    "2023-03": 30,
-    "2023-04": 40,
-    "2023-05": 50,
-    "2023-06": 30,
-    "2023-07": 40,
-    "2023-08": 90,
-    "2023-09": 90,
-    "2023-10": 90,
-    "2023-11": 170,
-    "2023-12": 90,
-    "2024-01": 140,
-    "2024-02": 90,
-    "2024-03": 90,
-    "2024-04": 50,
-    "2024-05": 20,
-    "2024-06": 30,
-    "2024-07": 20,
-    "2024-08": 40,
-    "2024-09": 40,
-    "2024-10": 50,
-    "2024-11": 30,
-    "2024-12": 50,
-    "2025-01": 50,
-    "2025-02": 20,
+    "2023-01": 20,
+    "2023-02": 40,
+    "2023-03": 10,
+    "2023-04": 20,
+    "2023-05": 10,
+    "2023-06": 10,
+    "2023-07": 10,
+    "2023-08": 20,
+    "2023-09": 10,
+    "2023-10": 20,
+    "2023-11": 20,
+    "2023-12": 20,
+    "2024-01": 10,
+    "2024-02": 10,
+    "2024-03": 10,
+    "2024-04": 10,
+    "2024-05": 10,
+    "2024-06": 10,
+    "2024-07": 10,
+    "2024-08": 10,
+    "2024-09": 20,
+    "2024-10": 20,
+    "2024-11": 10,
+    "2024-12": 20,
+    "2025-01": 10,
+    "2025-02": 10,
     "2025-03": 10,
     "2025-04": 10,
     "2025-05": 10,
     "2025-06": 10,
     "2025-07": 10,
-    "2025-08": 20,
+    "2025-08": 10,
     "2025-09": 10,
     "2025-10": 20,
     "2025-11": 10,
     "2025-12": 10,
-    "2026-01": 20,
-    "2026-02": 20,
+    "2026-01": 10,
+    "2026-02": 10,
     "2026-03": 10,
     "2026-04": 10,
     "2026-05": 10,
     "2026-06": 10,
     "2026-07": 10,
     "2026-08": 10,
-    "2026-09": 10
+    "2026-09": 10,
+    "2026-10": 10
    }
   },
   "bazos kotol na drevo": {
    "avg_monthly_searches": 110,
    "category": "drevo",
-   "competition": "HIGH",
-   "high_bid_micros": 8738750,
-   "low_bid_micros": 3728095,
+   "competition": "MEDIUM",
+   "high_bid_micros": 6343713,
+   "low_bid_micros": 2979802,
    "monthly": {
     "2023-01": 320,
     "2023-02": 260,
@@ -486,15 +494,16 @@
     "2026-06": 50,
     "2026-07": 30,
     "2026-08": 50,
-    "2026-09": 170
+    "2026-09": 170,
+    "2026-10": 140
    }
   },
   "bazos kotol na tuhe palivo": {
    "avg_monthly_searches": 50,
    "category": "tuhe_paliva",
    "competition": "MEDIUM",
-   "high_bid_micros": 4314365,
-   "low_bid_micros": 2024581,
+   "high_bid_micros": 10212886,
+   "low_bid_micros": 3716613,
    "monthly": {
     "2023-01": 110,
     "2023-02": 70,
@@ -540,13 +549,14 @@
     "2026-06": 30,
     "2026-07": 40,
     "2026-08": 30,
-    "2026-09": 50
+    "2026-09": 50,
+    "2026-10": 70
    }
   },
   "bazos sk kotle na tuhe palivo": {
    "avg_monthly_searches": 10,
    "category": "tuhe_paliva",
-   "competition": "UNSPECIFIED",
+   "competition": "MEDIUM",
    "high_bid_micros": null,
    "low_bid_micros": null,
    "monthly": {
@@ -594,7 +604,8 @@
     "2026-06": 0,
     "2026-07": 0,
     "2026-08": 10,
-    "2026-09": 0
+    "2026-09": 0,
+    "2026-10": 10
    }
   },
   "cena kotla na pelety": {
@@ -648,15 +659,16 @@
     "2026-06": 10,
     "2026-07": 0,
     "2026-08": 10,
-    "2026-09": 10
+    "2026-09": 10,
+    "2026-10": 10
    }
   },
   "ceny kotlov na drevo": {
    "avg_monthly_searches": 10,
    "category": "drevo",
-   "competition": "LOW",
-   "high_bid_micros": null,
-   "low_bid_micros": null,
+   "competition": "HIGH",
+   "high_bid_micros": 6111123,
+   "low_bid_micros": 3482297,
    "monthly": {
     "2023-01": 10,
     "2023-02": 10,
@@ -702,7 +714,8 @@
     "2026-06": 0,
     "2026-07": 0,
     "2026-08": 10,
-    "2026-09": 10
+    "2026-09": 10,
+    "2026-10": 10
    }
   },
   "ceny kotlov na tuhe palivo": {
@@ -756,7 +769,8 @@
     "2026-06": 0,
     "2026-07": 0,
     "2026-08": 0,
-    "2026-09": 0
+    "2026-09": 0,
+    "2026-10": 0
    }
   },
   "dechtovanie kotla na drevo": {
@@ -810,15 +824,16 @@
     "2026-06": 0,
     "2026-07": 0,
     "2026-08": 0,
-    "2026-09": 0
+    "2026-09": 0,
+    "2026-10": 0
    }
   },
   "drevosplynovacie kotle": {
    "avg_monthly_searches": 20,
    "category": "drevo",
    "competition": "HIGH",
-   "high_bid_micros": 8723674,
-   "low_bid_micros": 2990975,
+   "high_bid_micros": 8677447,
+   "low_bid_micros": 3233550,
    "monthly": {
     "2023-01": 10,
     "2023-02": 10,
@@ -864,15 +879,16 @@
     "2026-06": 10,
     "2026-07": 10,
     "2026-08": 10,
-    "2026-09": 10
+    "2026-09": 10,
+    "2026-10": 10
    }
   },
   "drevosplyňovací kotol": {
-   "avg_monthly_searches": 140,
+   "avg_monthly_searches": 110,
    "category": "drevo",
    "competition": "HIGH",
-   "high_bid_micros": 9069532,
-   "low_bid_micros": 3240226,
+   "high_bid_micros": 7555332,
+   "low_bid_micros": 3199931,
    "monthly": {
     "2023-01": 320,
     "2023-02": 210,
@@ -918,13 +934,14 @@
     "2026-06": 50,
     "2026-07": 70,
     "2026-08": 70,
-    "2026-09": 110
+    "2026-09": 110,
+    "2026-10": 210
    }
   },
   "idealna teplota kotla na tuhe palivo": {
    "avg_monthly_searches": 10,
    "category": "tuhe_paliva",
-   "competition": "UNSPECIFIED",
+   "competition": "LOW",
    "high_bid_micros": null,
    "low_bid_micros": null,
    "monthly": {
@@ -972,7 +989,8 @@
     "2026-06": 0,
     "2026-07": 0,
     "2026-08": 0,
-    "2026-09": 0
+    "2026-09": 0,
+    "2026-10": 10
    }
   },
   "interierovy kotol na pelety": {
@@ -1026,15 +1044,16 @@
     "2026-06": 0,
     "2026-07": 0,
     "2026-08": 0,
-    "2026-09": 10
+    "2026-09": 10,
+    "2026-10": 10
    }
   },
   "klasicky kotol na drevo": {
    "avg_monthly_searches": 140,
    "category": "drevo",
    "competition": "HIGH",
-   "high_bid_micros": 8271319,
-   "low_bid_micros": 3726410,
+   "high_bid_micros": 7605617,
+   "low_bid_micros": 3703135,
    "monthly": {
     "2023-01": 390,
     "2023-02": 390,
@@ -1080,15 +1099,16 @@
     "2026-06": 70,
     "2026-07": 50,
     "2026-08": 70,
-    "2026-09": 140
+    "2026-09": 140,
+    "2026-10": 110
    }
   },
   "kombinovane kotle na pelety a drevo": {
    "avg_monthly_searches": 20,
    "category": "pelety",
    "competition": "HIGH",
-   "high_bid_micros": 9837199,
-   "low_bid_micros": 3796015,
+   "high_bid_micros": 8556869,
+   "low_bid_micros": 3482297,
    "monthly": {
     "2023-01": 20,
     "2023-02": 10,
@@ -1134,15 +1154,16 @@
     "2026-06": 10,
     "2026-07": 10,
     "2026-08": 10,
-    "2026-09": 20
+    "2026-09": 20,
+    "2026-10": 20
    }
   },
   "kombinovany kotol na pelety a drevo": {
    "avg_monthly_searches": 140,
    "category": "pelety",
    "competition": "HIGH",
-   "high_bid_micros": 10551607,
-   "low_bid_micros": 3399655,
+   "high_bid_micros": 10266623,
+   "low_bid_micros": 3705613,
    "monthly": {
     "2023-01": 90,
     "2023-02": 70,
@@ -1188,15 +1209,16 @@
     "2026-06": 50,
     "2026-07": 70,
     "2026-08": 50,
-    "2026-09": 140
+    "2026-09": 140,
+    "2026-10": 140
    }
   },
   "kombinovany kotol na plyn a tuhe palivo": {
    "avg_monthly_searches": 20,
    "category": "tuhe_paliva",
    "competition": "HIGH",
-   "high_bid_micros": 8470090,
-   "low_bid_micros": 3052155,
+   "high_bid_micros": 7727544,
+   "low_bid_micros": 3220891,
    "monthly": {
     "2023-01": 110,
     "2023-02": 40,
@@ -1242,15 +1264,16 @@
     "2026-06": 10,
     "2026-07": 10,
     "2026-08": 10,
-    "2026-09": 10
+    "2026-09": 10,
+    "2026-10": 20
    }
   },
   "kombinovany kotol pelety drevo": {
    "avg_monthly_searches": 10,
    "category": "pelety",
-   "competition": "MEDIUM",
-   "high_bid_micros": null,
-   "low_bid_micros": null,
+   "competition": "HIGH",
+   "high_bid_micros": 15091320,
+   "low_bid_micros": 2490144,
    "monthly": {
     "2023-01": 10,
     "2023-02": 20,
@@ -1296,15 +1319,16 @@
     "2026-06": 10,
     "2026-07": 10,
     "2026-08": 0,
-    "2026-09": 10
+    "2026-09": 10,
+    "2026-10": 10
    }
   },
   "kombinovany kotol pelety drevo cena": {
    "avg_monthly_searches": 50,
    "category": "pelety",
    "competition": "HIGH",
-   "high_bid_micros": 8586652,
-   "low_bid_micros": 3935225,
+   "high_bid_micros": 6715848,
+   "low_bid_micros": 2736079,
    "monthly": {
     "2023-01": 70,
     "2023-02": 70,
@@ -1350,15 +1374,16 @@
     "2026-06": 10,
     "2026-07": 40,
     "2026-08": 40,
-    "2026-09": 30
+    "2026-09": 30,
+    "2026-10": 20
    }
   },
   "kombinovaný kotol na drevo a pelety": {
    "avg_monthly_searches": 50,
    "category": "drevo",
    "competition": "HIGH",
-   "high_bid_micros": 11552420,
-   "low_bid_micros": 4961575,
+   "high_bid_micros": 8335058,
+   "low_bid_micros": 3972841,
    "monthly": {
     "2023-01": 30,
     "2023-02": 50,
@@ -1404,7 +1429,8 @@
     "2026-06": 20,
     "2026-07": 20,
     "2026-08": 20,
-    "2026-09": 50
+    "2026-09": 50,
+    "2026-10": 50
    }
   },
   "kondenzačný kotol na pelety": {
@@ -1458,15 +1484,16 @@
     "2026-06": 10,
     "2026-07": 10,
     "2026-08": 0,
-    "2026-09": 0
+    "2026-09": 0,
+    "2026-10": 0
    }
   },
   "kotle na drevo": {
    "avg_monthly_searches": 320,
    "category": "drevo",
    "competition": "HIGH",
-   "high_bid_micros": 9974724,
-   "low_bid_micros": 3953693,
+   "high_bid_micros": 12987011,
+   "low_bid_micros": 4146071,
    "monthly": {
     "2023-01": 590,
     "2023-02": 480,
@@ -1512,15 +1539,16 @@
     "2026-06": 140,
     "2026-07": 140,
     "2026-08": 170,
-    "2026-09": 320
+    "2026-09": 320,
+    "2026-10": 320
    }
   },
   "kotle na drevo cena": {
    "avg_monthly_searches": 20,
    "category": "drevo",
    "competition": "HIGH",
-   "high_bid_micros": 13626935,
-   "low_bid_micros": 6260436,
+   "high_bid_micros": 8718458,
+   "low_bid_micros": 4216187,
    "monthly": {
     "2023-01": 50,
     "2023-02": 30,
@@ -1566,7 +1594,8 @@
     "2026-06": 10,
     "2026-07": 10,
     "2026-08": 20,
-    "2026-09": 20
+    "2026-09": 20,
+    "2026-10": 20
    }
   },
   "kotle na pelety a drevo": {
@@ -1620,15 +1649,16 @@
     "2026-06": 10,
     "2026-07": 10,
     "2026-08": 10,
-    "2026-09": 10
+    "2026-09": 10,
+    "2026-10": 10
    }
   },
   "kotle na pevne palivo": {
    "avg_monthly_searches": 30,
    "category": "pevne_paliva",
    "competition": "HIGH",
-   "high_bid_micros": 10028334,
-   "low_bid_micros": 3230467,
+   "high_bid_micros": 10800591,
+   "low_bid_micros": 3233550,
    "monthly": {
     "2023-01": 70,
     "2023-02": 40,
@@ -1674,15 +1704,16 @@
     "2026-06": 10,
     "2026-07": 20,
     "2026-08": 20,
-    "2026-09": 20
+    "2026-09": 20,
+    "2026-10": 30
    }
   },
   "kotle na tuhe paliva": {
    "avg_monthly_searches": 170,
    "category": "tuhe_paliva",
    "competition": "HIGH",
-   "high_bid_micros": 9558823,
-   "low_bid_micros": 3757351,
+   "high_bid_micros": 10151468,
+   "low_bid_micros": 4930091,
    "monthly": {
     "2023-01": 720,
     "2023-02": 480,
@@ -1728,15 +1759,16 @@
     "2026-06": 70,
     "2026-07": 40,
     "2026-08": 70,
-    "2026-09": 140
+    "2026-09": 140,
+    "2026-10": 170
    }
   },
   "kotle na tuhe palivo": {
    "avg_monthly_searches": 170,
    "category": "tuhe_paliva",
    "competition": "HIGH",
-   "high_bid_micros": 9558823,
-   "low_bid_micros": 3757351,
+   "high_bid_micros": 10151468,
+   "low_bid_micros": 4930091,
    "monthly": {
     "2023-01": 720,
     "2023-02": 480,
@@ -1782,13 +1814,14 @@
     "2026-06": 70,
     "2026-07": 40,
     "2026-08": 70,
-    "2026-09": 140
+    "2026-09": 140,
+    "2026-10": 170
    }
   },
   "kotle na tuhe palivo bazos": {
    "avg_monthly_searches": 10,
    "category": "tuhe_paliva",
-   "competition": "LOW",
+   "competition": "HIGH",
    "high_bid_micros": null,
    "low_bid_micros": null,
    "monthly": {
@@ -1836,7 +1869,8 @@
     "2026-06": 10,
     "2026-07": 10,
     "2026-08": 10,
-    "2026-09": 10
+    "2026-09": 10,
+    "2026-10": 10
    }
   },
   "kotle na tuhe palivo cena": {
@@ -1890,13 +1924,14 @@
     "2026-06": 10,
     "2026-07": 0,
     "2026-08": 0,
-    "2026-09": 10
+    "2026-09": 10,
+    "2026-10": 10
    }
   },
   "kotle na tuhe palivo liatinove": {
    "avg_monthly_searches": 10,
    "category": "tuhe_paliva",
-   "competition": "UNSPECIFIED",
+   "competition": "HIGH",
    "high_bid_micros": null,
    "low_bid_micros": null,
    "monthly": {
@@ -1944,7 +1979,8 @@
     "2026-06": 10,
     "2026-07": 10,
     "2026-08": 10,
-    "2026-09": 0
+    "2026-09": 0,
+    "2026-10": 10
    }
   },
   "kotly na pelet cena": {
@@ -1998,15 +2034,16 @@
     "2026-06": 0,
     "2026-07": 0,
     "2026-08": 0,
-    "2026-09": 0
+    "2026-09": 0,
+    "2026-10": 0
    }
   },
   "kotly na pelety": {
-   "avg_monthly_searches": 70,
+   "avg_monthly_searches": 50,
    "category": "pelety",
    "competition": "HIGH",
-   "high_bid_micros": 10196908,
-   "low_bid_micros": 3557748,
+   "high_bid_micros": 12380162,
+   "low_bid_micros": 4196423,
    "monthly": {
     "2023-01": 90,
     "2023-02": 30,
@@ -2052,15 +2089,16 @@
     "2026-06": 30,
     "2026-07": 30,
     "2026-08": 40,
-    "2026-09": 30
+    "2026-09": 30,
+    "2026-10": 30
    }
   },
   "kotly na pelety a drevo": {
    "avg_monthly_searches": 10,
    "category": "pelety",
    "competition": "HIGH",
-   "high_bid_micros": 7539691,
-   "low_bid_micros": 2779556,
+   "high_bid_micros": 11254018,
+   "low_bid_micros": 3726838,
    "monthly": {
     "2023-01": 10,
     "2023-02": 10,
@@ -2106,7 +2144,8 @@
     "2026-06": 10,
     "2026-07": 10,
     "2026-08": 10,
-    "2026-09": 10
+    "2026-09": 10,
+    "2026-10": 10
    }
   },
   "kotly na pelety cena": {
@@ -2160,7 +2199,8 @@
     "2026-06": 10,
     "2026-07": 10,
     "2026-08": 0,
-    "2026-09": 10
+    "2026-09": 10,
+    "2026-10": 10
    }
   },
   "kotly na pevné palivá": {
@@ -2174,9 +2214,9 @@
   "kotly na tuhe palivo na splatky": {
    "avg_monthly_searches": 10,
    "category": "tuhe_paliva",
-   "competition": "HIGH",
-   "high_bid_micros": 12766228,
-   "low_bid_micros": 7494155,
+   "competition": "UNSPECIFIED",
+   "high_bid_micros": null,
+   "low_bid_micros": null,
    "monthly": {
     "2023-01": 10,
     "2023-02": 10,
@@ -2222,13 +2262,14 @@
     "2026-06": 0,
     "2026-07": 0,
     "2026-08": 0,
-    "2026-09": 10
+    "2026-09": 10,
+    "2026-10": 0
    }
   },
   "kotly na tuhe palivo plechove": {
    "avg_monthly_searches": 10,
    "category": "tuhe_paliva",
-   "competition": "HIGH",
+   "competition": "UNSPECIFIED",
    "high_bid_micros": null,
    "low_bid_micros": null,
    "monthly": {
@@ -2276,15 +2317,16 @@
     "2026-06": 0,
     "2026-07": 0,
     "2026-08": 0,
-    "2026-09": 10
+    "2026-09": 10,
+    "2026-10": 0
    }
   },
   "kotly na tuhe palivo so zasobnikom": {
    "avg_monthly_searches": 10,
    "category": "tuhe_paliva",
-   "competition": "UNSPECIFIED",
-   "high_bid_micros": null,
-   "low_bid_micros": null,
+   "competition": "HIGH",
+   "high_bid_micros": 7280071,
+   "low_bid_micros": 3247605,
    "monthly": {
     "2023-01": 30,
     "2023-02": 20,
@@ -2330,7 +2372,8 @@
     "2026-06": 0,
     "2026-07": 0,
     "2026-08": 10,
-    "2026-09": 0
+    "2026-09": 0,
+    "2026-10": 10
    }
   },
   "kotly na tuhé palivo ceny": {
@@ -2384,11 +2427,12 @@
     "2026-06": 0,
     "2026-07": 0,
     "2026-08": 0,
-    "2026-09": 0
+    "2026-09": 0,
+    "2026-10": 0
    }
   },
   "kotly so zasobnikom na tuhe palivo": {
-   "avg_monthly_searches": 10,
+   "avg_monthly_searches": 0,
    "category": "tuhe_paliva",
    "competition": "UNSPECIFIED",
    "high_bid_micros": null,
@@ -2438,7 +2482,8 @@
     "2026-06": 0,
     "2026-07": 0,
     "2026-08": 0,
-    "2026-09": 0
+    "2026-09": 0,
+    "2026-10": 0
    }
   },
   "kotol na agropelety": {
@@ -2492,15 +2537,16 @@
     "2026-06": 10,
     "2026-07": 10,
     "2026-08": 10,
-    "2026-09": 10
+    "2026-09": 10,
+    "2026-10": 10
    }
   },
   "kotol na drevo": {
    "avg_monthly_searches": 1600,
    "category": "drevo",
    "competition": "HIGH",
-   "high_bid_micros": 11340367,
-   "low_bid_micros": 4235176,
+   "high_bid_micros": 9663824,
+   "low_bid_micros": 3707893,
    "monthly": {
     "2023-01": 2900,
     "2023-02": 2900,
@@ -2546,15 +2592,16 @@
     "2026-06": 590,
     "2026-07": 590,
     "2026-08": 720,
-    "2026-09": 1600
+    "2026-09": 1600,
+    "2026-10": 1600
    }
   },
   "kotol na drevo 25 kw": {
    "avg_monthly_searches": 110,
    "category": "drevo",
    "competition": "HIGH",
-   "high_bid_micros": 8093729,
-   "low_bid_micros": 3721969,
+   "high_bid_micros": 8358408,
+   "low_bid_micros": 3691205,
    "monthly": {
     "2023-01": 260,
     "2023-02": 260,
@@ -2600,15 +2647,16 @@
     "2026-06": 40,
     "2026-07": 90,
     "2026-08": 70,
-    "2026-09": 210
+    "2026-09": 210,
+    "2026-10": 210
    }
   },
   "kotol na drevo a pelety": {
    "avg_monthly_searches": 170,
    "category": "drevo",
    "competition": "HIGH",
-   "high_bid_micros": 7863536,
-   "low_bid_micros": 2730279,
+   "high_bid_micros": 5723163,
+   "low_bid_micros": 2490144,
    "monthly": {
     "2023-01": 70,
     "2023-02": 90,
@@ -2654,15 +2702,16 @@
     "2026-06": 70,
     "2026-07": 70,
     "2026-08": 70,
-    "2026-09": 140
+    "2026-09": 140,
+    "2026-10": 170
    }
   },
   "kotol na drevo a uhlie": {
    "avg_monthly_searches": 50,
    "category": "drevo",
    "competition": "HIGH",
-   "high_bid_micros": 12597063,
-   "low_bid_micros": 5076321,
+   "high_bid_micros": 9078686,
+   "low_bid_micros": 3723917,
    "monthly": {
     "2023-01": 50,
     "2023-02": 50,
@@ -2708,15 +2757,16 @@
     "2026-06": 10,
     "2026-07": 20,
     "2026-08": 10,
-    "2026-09": 50
+    "2026-09": 50,
+    "2026-10": 70
    }
   },
   "kotol na drevo bazos": {
    "avg_monthly_searches": 50,
    "category": "drevo",
    "competition": "MEDIUM",
-   "high_bid_micros": 5862587,
-   "low_bid_micros": 3013119,
+   "high_bid_micros": 10566275,
+   "low_bid_micros": 2984826,
    "monthly": {
     "2023-01": 140,
     "2023-02": 110,
@@ -2762,15 +2812,16 @@
     "2026-06": 20,
     "2026-07": 10,
     "2026-08": 40,
-    "2026-09": 50
+    "2026-09": 50,
+    "2026-10": 70
    }
   },
   "kotol na drevo cena": {
    "avg_monthly_searches": 110,
    "category": "drevo",
    "competition": "HIGH",
-   "high_bid_micros": 8836232,
-   "low_bid_micros": 3719233,
+   "high_bid_micros": 7575030,
+   "low_bid_micros": 3703976,
    "monthly": {
     "2023-01": 210,
     "2023-02": 260,
@@ -2816,15 +2867,16 @@
     "2026-06": 50,
     "2026-07": 40,
     "2026-08": 50,
-    "2026-09": 140
+    "2026-09": 140,
+    "2026-10": 110
    }
   },
   "kotol na drevo na splatky": {
    "avg_monthly_searches": 20,
    "category": "drevo",
    "competition": "HIGH",
-   "high_bid_micros": 24512694,
-   "low_bid_micros": 6364044,
+   "high_bid_micros": 120371645,
+   "low_bid_micros": 12723657,
    "monthly": {
     "2023-01": 20,
     "2023-02": 30,
@@ -2870,15 +2922,16 @@
     "2026-06": 10,
     "2026-07": 10,
     "2026-08": 10,
-    "2026-09": 20
+    "2026-09": 20,
+    "2026-10": 20
    }
   },
   "kotol na drevo s dlhou dobou horenia": {
    "avg_monthly_searches": 30,
    "category": "drevo",
    "competition": "HIGH",
-   "high_bid_micros": 9306640,
-   "low_bid_micros": 3299613,
+   "high_bid_micros": 7733587,
+   "low_bid_micros": 3223060,
    "monthly": {
     "2023-01": 0,
     "2023-02": 10,
@@ -2924,15 +2977,16 @@
     "2026-06": 30,
     "2026-07": 30,
     "2026-08": 50,
-    "2026-09": 90
+    "2026-09": 90,
+    "2026-10": 90
    }
   },
   "kotol na drevo so zasobnikom": {
    "avg_monthly_searches": 30,
    "category": "drevo",
    "competition": "HIGH",
-   "high_bid_micros": 7354989,
-   "low_bid_micros": 3247425,
+   "high_bid_micros": 8344641,
+   "low_bid_micros": 3244130,
    "monthly": {
     "2023-01": 260,
     "2023-02": 210,
@@ -2978,15 +3032,16 @@
     "2026-06": 20,
     "2026-07": 10,
     "2026-08": 10,
-    "2026-09": 30
+    "2026-09": 30,
+    "2026-10": 30
    }
   },
   "kotol na drevo ustredne kurenie": {
    "avg_monthly_searches": 70,
    "category": "drevo",
    "competition": "HIGH",
-   "high_bid_micros": 8375912,
-   "low_bid_micros": 3304777,
+   "high_bid_micros": 7492011,
+   "low_bid_micros": 3704374,
    "monthly": {
     "2023-01": 10,
     "2023-02": 10,
@@ -3032,15 +3087,16 @@
     "2026-06": 40,
     "2026-07": 20,
     "2026-08": 40,
-    "2026-09": 110
+    "2026-09": 110,
+    "2026-10": 170
    }
   },
   "kotol na drevo vypredaj": {
-   "avg_monthly_searches": 90,
+   "avg_monthly_searches": 110,
    "category": "drevo",
    "competition": "HIGH",
-   "high_bid_micros": 8428975,
-   "low_bid_micros": 3722384,
+   "high_bid_micros": 7522620,
+   "low_bid_micros": 3714754,
    "monthly": {
     "2023-01": 590,
     "2023-02": 480,
@@ -3086,15 +3142,16 @@
     "2026-06": 90,
     "2026-07": 90,
     "2026-08": 90,
-    "2026-09": 170
+    "2026-09": 170,
+    "2026-10": 170
    }
   },
   "kotol na ohrev vody na tuhe palivo": {
    "avg_monthly_searches": 30,
    "category": "tuhe_paliva",
    "competition": "HIGH",
-   "high_bid_micros": 6992042,
-   "low_bid_micros": 3721750,
+   "high_bid_micros": 8676473,
+   "low_bid_micros": 3213476,
    "monthly": {
     "2023-01": 50,
     "2023-02": 50,
@@ -3140,15 +3197,16 @@
     "2026-06": 70,
     "2026-07": 70,
     "2026-08": 20,
-    "2026-09": 30
+    "2026-09": 30,
+    "2026-10": 30
    }
   },
   "kotol na peletky a drevo": {
    "avg_monthly_searches": 10,
    "category": "pelety",
-   "competition": "HIGH",
-   "high_bid_micros": 7378775,
-   "low_bid_micros": 3305740,
+   "competition": "UNSPECIFIED",
+   "high_bid_micros": null,
+   "low_bid_micros": null,
    "monthly": {
     "2023-01": 10,
     "2023-02": 10,
@@ -3194,15 +3252,16 @@
     "2026-06": 10,
     "2026-07": 10,
     "2026-08": 10,
-    "2026-09": 10
+    "2026-09": 10,
+    "2026-10": 0
    }
   },
   "kotol na pelety": {
-   "avg_monthly_searches": 1300,
+   "avg_monthly_searches": 1000,
    "category": "pelety",
    "competition": "HIGH",
-   "high_bid_micros": 9802014,
-   "low_bid_micros": 3305936,
+   "high_bid_micros": 7076496,
+   "low_bid_micros": 3739388,
    "monthly": {
     "2023-01": 1000,
     "2023-02": 1000,
@@ -3248,15 +3307,16 @@
     "2026-06": 480,
     "2026-07": 590,
     "2026-08": 590,
-    "2026-09": 880
+    "2026-09": 880,
+    "2026-10": 1000
    }
   },
   "kotol na pelety a drevo": {
-   "avg_monthly_searches": 320,
+   "avg_monthly_searches": 260,
    "category": "pelety",
    "competition": "HIGH",
-   "high_bid_micros": 9581580,
-   "low_bid_micros": 3996515,
+   "high_bid_micros": 8384856,
+   "low_bid_micros": 3483603,
    "monthly": {
     "2023-01": 170,
     "2023-02": 260,
@@ -3302,15 +3362,16 @@
     "2026-06": 90,
     "2026-07": 90,
     "2026-08": 110,
-    "2026-09": 210
+    "2026-09": 210,
+    "2026-10": 210
    }
   },
   "kotol na pelety a drevo cena": {
    "avg_monthly_searches": 30,
    "category": "pelety",
    "competition": "HIGH",
-   "high_bid_micros": 10252334,
-   "low_bid_micros": 4314868,
+   "high_bid_micros": null,
+   "low_bid_micros": null,
    "monthly": {
     "2023-01": 30,
     "2023-02": 20,
@@ -3356,15 +3417,16 @@
     "2026-06": 20,
     "2026-07": 10,
     "2026-08": 30,
-    "2026-09": 30
+    "2026-09": 30,
+    "2026-10": 10
    }
   },
   "kotol na pelety a drevo so zasobnikom": {
    "avg_monthly_searches": 90,
    "category": "pelety",
    "competition": "HIGH",
-   "high_bid_micros": 8170708,
-   "low_bid_micros": 4144237,
+   "high_bid_micros": 7670421,
+   "low_bid_micros": 3736621,
    "monthly": {
     "2023-01": 10,
     "2023-02": 10,
@@ -3410,7 +3472,8 @@
     "2026-06": 50,
     "2026-07": 70,
     "2026-08": 50,
-    "2026-09": 90
+    "2026-09": 90,
+    "2026-10": 140
    }
   },
   "kotol na pelety a ekohrasok": {
@@ -3464,7 +3527,8 @@
     "2026-06": 0,
     "2026-07": 0,
     "2026-08": 0,
-    "2026-09": 0
+    "2026-09": 0,
+    "2026-10": 0
    }
   },
   "kotol na pelety bazos": {
@@ -3518,15 +3582,16 @@
     "2026-06": 20,
     "2026-07": 20,
     "2026-08": 30,
-    "2026-09": 40
+    "2026-09": 40,
+    "2026-10": 50
    }
   },
   "kotol na pelety cena": {
-   "avg_monthly_searches": 90,
+   "avg_monthly_searches": 70,
    "category": "pelety",
    "competition": "HIGH",
-   "high_bid_micros": 9470926,
-   "low_bid_micros": 4059468,
+   "high_bid_micros": 6758586,
+   "low_bid_micros": 3696539,
    "monthly": {
     "2023-01": 50,
     "2023-02": 40,
@@ -3572,7 +3637,8 @@
     "2026-06": 40,
     "2026-07": 40,
     "2026-08": 30,
-    "2026-09": 40
+    "2026-09": 40,
+    "2026-10": 70
    }
   },
   "kotol na pelety heureka": {
@@ -3626,7 +3692,8 @@
     "2026-06": 0,
     "2026-07": 0,
     "2026-08": 10,
-    "2026-09": 0
+    "2026-09": 0,
+    "2026-10": 0
    }
   },
   "kotol na pelety modrastrecha": {
@@ -3680,7 +3747,8 @@
     "2026-06": 0,
     "2026-07": 0,
     "2026-08": 0,
-    "2026-09": 0
+    "2026-09": 0,
+    "2026-10": 0
    }
   },
   "kotol na pelety na splatky": {
@@ -3734,13 +3802,14 @@
     "2026-06": 0,
     "2026-07": 0,
     "2026-08": 10,
-    "2026-09": 10
+    "2026-09": 10,
+    "2026-10": 10
    }
   },
   "kotol na pelety podlahove kurenie": {
    "avg_monthly_searches": 10,
    "category": "pelety",
-   "competition": "UNSPECIFIED",
+   "competition": "HIGH",
    "high_bid_micros": null,
    "low_bid_micros": null,
    "monthly": {
@@ -3788,7 +3857,8 @@
     "2026-06": 0,
     "2026-07": 10,
     "2026-08": 10,
-    "2026-09": 0
+    "2026-09": 0,
+    "2026-10": 10
    }
   },
   "kotol na pelety skusenosti": {
@@ -3842,15 +3912,16 @@
     "2026-06": 10,
     "2026-07": 10,
     "2026-08": 10,
-    "2026-09": 10
+    "2026-09": 10,
+    "2026-10": 10
    }
   },
   "kotol na pelety so zasobnikom": {
    "avg_monthly_searches": 210,
    "category": "pelety",
    "competition": "HIGH",
-   "high_bid_micros": 10722435,
-   "low_bid_micros": 4325656,
+   "high_bid_micros": 9383671,
+   "low_bid_micros": 3966843,
    "monthly": {
     "2023-01": 170,
     "2023-02": 110,
@@ -3896,15 +3967,16 @@
     "2026-06": 50,
     "2026-07": 90,
     "2026-08": 90,
-    "2026-09": 210
+    "2026-09": 210,
+    "2026-10": 210
    }
   },
   "kotol na pelety so zasobnikom cena": {
    "avg_monthly_searches": 70,
    "category": "pelety",
    "competition": "HIGH",
-   "high_bid_micros": 9799694,
-   "low_bid_micros": 3991373,
+   "high_bid_micros": 6902801,
+   "low_bid_micros": 3939244,
    "monthly": {
     "2023-01": 50,
     "2023-02": 90,
@@ -3950,13 +4022,14 @@
     "2026-06": 40,
     "2026-07": 30,
     "2026-08": 30,
-    "2026-09": 50
+    "2026-09": 50,
+    "2026-10": 70
    }
   },
   "kotol na pelety spotreba": {
    "avg_monthly_searches": 10,
    "category": "pelety",
-   "competition": "HIGH",
+   "competition": "MEDIUM",
    "high_bid_micros": null,
    "low_bid_micros": null,
    "monthly": {
@@ -4004,7 +4077,8 @@
     "2026-06": 10,
     "2026-07": 10,
     "2026-08": 10,
-    "2026-09": 10
+    "2026-09": 10,
+    "2026-10": 10
    }
   },
   "kotol na pevne palivo so zasobnikom": {
@@ -4058,15 +4132,16 @@
     "2026-06": 0,
     "2026-07": 0,
     "2026-08": 10,
-    "2026-09": 0
+    "2026-09": 0,
+    "2026-10": 0
    }
   },
   "kotol na pevné palivo": {
    "avg_monthly_searches": 110,
    "category": "pevne_paliva",
    "competition": "HIGH",
-   "high_bid_micros": 12516889,
-   "low_bid_micros": 3233596,
+   "high_bid_micros": 11391881,
+   "low_bid_micros": 3429578,
    "monthly": {
     "2023-01": 210,
     "2023-02": 210,
@@ -4112,7 +4187,8 @@
     "2026-06": 50,
     "2026-07": 40,
     "2026-08": 70,
-    "2026-09": 90
+    "2026-09": 90,
+    "2026-10": 140
    }
   },
   "kotol na pevné palivo na ústredne kúrenie v dome": {
@@ -4166,15 +4242,16 @@
     "2026-06": 0,
     "2026-07": 0,
     "2026-08": 0,
-    "2026-09": 10
+    "2026-09": 10,
+    "2026-10": 10
    }
   },
   "kotol na plyn a tuhe palivo": {
    "avg_monthly_searches": 10,
    "category": "tuhe_paliva",
    "competition": "HIGH",
-   "high_bid_micros": 8519564,
-   "low_bid_micros": 3303442,
+   "high_bid_micros": null,
+   "low_bid_micros": null,
    "monthly": {
     "2023-01": 10,
     "2023-02": 10,
@@ -4220,15 +4297,16 @@
     "2026-06": 0,
     "2026-07": 0,
     "2026-08": 0,
-    "2026-09": 10
+    "2026-09": 10,
+    "2026-10": 10
    }
   },
   "kotol na tuhe": {
    "avg_monthly_searches": 10,
    "category": "tuhe_paliva",
    "competition": "HIGH",
-   "high_bid_micros": 9705560,
-   "low_bid_micros": 3298081,
+   "high_bid_micros": null,
+   "low_bid_micros": null,
    "monthly": {
     "2023-01": 10,
     "2023-02": 10,
@@ -4274,15 +4352,16 @@
     "2026-06": 0,
     "2026-07": 0,
     "2026-08": 10,
-    "2026-09": 10
+    "2026-09": 10,
+    "2026-10": 10
    }
   },
   "kotol na tuhe paliva": {
    "avg_monthly_searches": 2400,
    "category": "tuhe_paliva",
    "competition": "HIGH",
-   "high_bid_micros": 9696086,
-   "low_bid_micros": 3283596,
+   "high_bid_micros": 10039744,
+   "low_bid_micros": 3233550,
    "monthly": {
     "2023-01": 5400,
     "2023-02": 4400,
@@ -4328,15 +4407,16 @@
     "2026-06": 1000,
     "2026-07": 1000,
     "2026-08": 1000,
-    "2026-09": 1900
+    "2026-09": 1900,
+    "2026-10": 2400
    }
   },
   "kotol na tuhe palivo 10kw": {
    "avg_monthly_searches": 10,
    "category": "tuhe_paliva",
    "competition": "HIGH",
-   "high_bid_micros": 8452322,
-   "low_bid_micros": 3738708,
+   "high_bid_micros": 9436767,
+   "low_bid_micros": 3718915,
    "monthly": {
     "2023-01": 50,
     "2023-02": 10,
@@ -4382,7 +4462,8 @@
     "2026-06": 10,
     "2026-07": 10,
     "2026-08": 10,
-    "2026-09": 20
+    "2026-09": 20,
+    "2026-10": 30
    }
   },
   "kotol na tuhe palivo 20 kw": {
@@ -4436,15 +4517,16 @@
     "2026-06": 10,
     "2026-07": 10,
     "2026-08": 10,
-    "2026-09": 10
+    "2026-09": 10,
+    "2026-10": 10
    }
   },
   "kotol na tuhe palivo 20kw": {
-   "avg_monthly_searches": 70,
+   "avg_monthly_searches": 90,
    "category": "tuhe_paliva",
    "competition": "HIGH",
-   "high_bid_micros": 10215529,
-   "low_bid_micros": 4228787,
+   "high_bid_micros": 10532567,
+   "low_bid_micros": 3715573,
    "monthly": {
     "2023-01": 390,
     "2023-02": 170,
@@ -4490,15 +4572,16 @@
     "2026-06": 20,
     "2026-07": 70,
     "2026-08": 70,
-    "2026-09": 90
+    "2026-09": 90,
+    "2026-10": 170
    }
   },
   "kotol na tuhe palivo 25kw": {
    "avg_monthly_searches": 260,
    "category": "tuhe_paliva",
    "competition": "HIGH",
-   "high_bid_micros": 12539908,
-   "low_bid_micros": 4039731,
+   "high_bid_micros": 12615341,
+   "low_bid_micros": 3720575,
    "monthly": {
     "2023-01": 260,
     "2023-02": 260,
@@ -4544,15 +4627,16 @@
     "2026-06": 140,
     "2026-07": 170,
     "2026-08": 210,
-    "2026-09": 320
+    "2026-09": 320,
+    "2026-10": 320
    }
   },
   "kotol na tuhe palivo 30kw": {
    "avg_monthly_searches": 40,
    "category": "tuhe_paliva",
    "competition": "HIGH",
-   "high_bid_micros": 9193009,
-   "low_bid_micros": 4227824,
+   "high_bid_micros": 9087827,
+   "low_bid_micros": 3905182,
    "monthly": {
     "2023-01": 110,
     "2023-02": 50,
@@ -4598,15 +4682,16 @@
     "2026-06": 20,
     "2026-07": 10,
     "2026-08": 20,
-    "2026-09": 50
+    "2026-09": 50,
+    "2026-10": 50
    }
   },
   "kotol na tuhe palivo a pelety": {
    "avg_monthly_searches": 30,
    "category": "tuhe_paliva",
    "competition": "HIGH",
-   "high_bid_micros": 9700768,
-   "low_bid_micros": 2742861,
+   "high_bid_micros": 8262021,
+   "low_bid_micros": 2750178,
    "monthly": {
     "2023-01": 40,
     "2023-02": 50,
@@ -4652,15 +4737,16 @@
     "2026-06": 10,
     "2026-07": 40,
     "2026-08": 10,
-    "2026-09": 30
+    "2026-09": 30,
+    "2026-10": 20
    }
   },
   "kotol na tuhe palivo a plyn": {
    "avg_monthly_searches": 10,
    "category": "tuhe_paliva",
    "competition": "HIGH",
-   "high_bid_micros": null,
-   "low_bid_micros": null,
+   "high_bid_micros": 7733675,
+   "low_bid_micros": 3283039,
    "monthly": {
     "2023-01": 20,
     "2023-02": 10,
@@ -4706,15 +4792,16 @@
     "2026-06": 10,
     "2026-07": 10,
     "2026-08": 10,
-    "2026-09": 10
+    "2026-09": 10,
+    "2026-10": 10
    }
   },
   "kotol na tuhe palivo bazos": {
    "avg_monthly_searches": 170,
    "category": "tuhe_paliva",
-   "competition": "HIGH",
-   "high_bid_micros": 4324649,
-   "low_bid_micros": 2558138,
+   "competition": "MEDIUM",
+   "high_bid_micros": 11309947,
+   "low_bid_micros": 3718915,
    "monthly": {
     "2023-01": 590,
     "2023-02": 390,
@@ -4760,15 +4847,16 @@
     "2026-06": 70,
     "2026-07": 90,
     "2026-08": 70,
-    "2026-09": 90
+    "2026-09": 90,
+    "2026-10": 110
    }
   },
   "kotol na tuhe palivo cena": {
    "avg_monthly_searches": 30,
    "category": "tuhe_paliva",
    "competition": "HIGH",
-   "high_bid_micros": 6278685,
-   "low_bid_micros": 3242984,
+   "high_bid_micros": 8510458,
+   "low_bid_micros": 3716414,
    "monthly": {
     "2023-01": 50,
     "2023-02": 50,
@@ -4814,15 +4902,16 @@
     "2026-06": 20,
     "2026-07": 20,
     "2026-08": 20,
-    "2026-09": 10
+    "2026-09": 10,
+    "2026-10": 30
    }
   },
   "kotol na tuhe palivo na splatky": {
    "avg_monthly_searches": 30,
    "category": "tuhe_paliva",
    "competition": "HIGH",
-   "high_bid_micros": 45922139,
-   "low_bid_micros": 8211758,
+   "high_bid_micros": 57732429,
+   "low_bid_micros": 10927100,
    "monthly": {
     "2023-01": 20,
     "2023-02": 20,
@@ -4868,15 +4957,16 @@
     "2026-06": 10,
     "2026-07": 10,
     "2026-08": 30,
-    "2026-09": 20
+    "2026-09": 20,
+    "2026-10": 10
    }
   },
   "kotol na uhlie a drevo": {
-   "avg_monthly_searches": 30,
+   "avg_monthly_searches": 20,
    "category": "drevo",
    "competition": "HIGH",
-   "high_bid_micros": 12069479,
-   "low_bid_micros": 5076321,
+   "high_bid_micros": 11074214,
+   "low_bid_micros": 4148727,
    "monthly": {
     "2023-01": 30,
     "2023-02": 30,
@@ -4922,7 +5012,8 @@
     "2026-06": 10,
     "2026-07": 10,
     "2026-08": 10,
-    "2026-09": 30
+    "2026-09": 30,
+    "2026-10": 20
    }
   },
   "kotol pelety": {
@@ -4976,15 +5067,16 @@
     "2026-06": 10,
     "2026-07": 10,
     "2026-08": 10,
-    "2026-09": 10
+    "2026-09": 10,
+    "2026-10": 10
    }
   },
   "kotol pelety drevo": {
    "avg_monthly_searches": 10,
    "category": "pelety",
    "competition": "HIGH",
-   "high_bid_micros": 13610261,
-   "low_bid_micros": 4647291,
+   "high_bid_micros": null,
+   "low_bid_micros": null,
    "monthly": {
     "2023-01": 10,
     "2023-02": 10,
@@ -5030,15 +5122,16 @@
     "2026-06": 0,
     "2026-07": 10,
     "2026-08": 10,
-    "2026-09": 10
+    "2026-09": 10,
+    "2026-10": 10
    }
   },
   "lacne kotle na drevo": {
-   "avg_monthly_searches": 40,
+   "avg_monthly_searches": 30,
    "category": "drevo",
    "competition": "HIGH",
-   "high_bid_micros": 6895501,
-   "low_bid_micros": 3591840,
+   "high_bid_micros": 7727434,
+   "low_bid_micros": 3753729,
    "monthly": {
     "2023-01": 50,
     "2023-02": 20,
@@ -5084,15 +5177,16 @@
     "2026-06": 10,
     "2026-07": 10,
     "2026-08": 20,
-    "2026-09": 20
+    "2026-09": 20,
+    "2026-10": 50
    }
   },
   "lacne kotly na tuhe palivo": {
    "avg_monthly_searches": 20,
    "category": "tuhe_paliva",
    "competition": "HIGH",
-   "high_bid_micros": 9139794,
-   "low_bid_micros": 3500638,
+   "high_bid_micros": 15679070,
+   "low_bid_micros": 4924337,
    "monthly": {
     "2023-01": 40,
     "2023-02": 70,
@@ -5138,15 +5232,16 @@
     "2026-06": 10,
     "2026-07": 10,
     "2026-08": 10,
-    "2026-09": 10
+    "2026-09": 10,
+    "2026-10": 40
    }
   },
   "lacny kotol na pelety": {
-   "avg_monthly_searches": 50,
+   "avg_monthly_searches": 40,
    "category": "pelety",
    "competition": "HIGH",
-   "high_bid_micros": 10167587,
-   "low_bid_micros": 3422958,
+   "high_bid_micros": 7054474,
+   "low_bid_micros": 2989186,
    "monthly": {
     "2023-01": 40,
     "2023-02": 40,
@@ -5192,15 +5287,16 @@
     "2026-06": 20,
     "2026-07": 10,
     "2026-08": 20,
-    "2026-09": 30
+    "2026-09": 30,
+    "2026-10": 30
    }
   },
   "lacny kotol na tuhe palivo": {
    "avg_monthly_searches": 110,
    "category": "tuhe_paliva",
    "competition": "HIGH",
-   "high_bid_micros": 9726129,
-   "low_bid_micros": 4230953,
+   "high_bid_micros": 9637973,
+   "low_bid_micros": 3718915,
    "monthly": {
     "2023-01": 720,
     "2023-02": 590,
@@ -5246,13 +5342,14 @@
     "2026-06": 90,
     "2026-07": 90,
     "2026-08": 70,
-    "2026-09": 110
+    "2026-09": 110,
+    "2026-10": 140
    }
   },
   "liatinove splynovacie kotly na drevo": {
    "avg_monthly_searches": 20,
    "category": "drevo",
-   "competition": "MEDIUM",
+   "competition": "HIGH",
    "high_bid_micros": null,
    "low_bid_micros": null,
    "monthly": {
@@ -5300,15 +5397,16 @@
     "2026-06": 10,
     "2026-07": 10,
     "2026-08": 10,
-    "2026-09": 10
+    "2026-09": 10,
+    "2026-10": 10
    }
   },
   "liatinovy kotol na drevo": {
    "avg_monthly_searches": 210,
    "category": "drevo",
    "competition": "HIGH",
-   "high_bid_micros": 8565996,
-   "low_bid_micros": 3738708,
+   "high_bid_micros": 7610043,
+   "low_bid_micros": 3696141,
    "monthly": {
     "2023-01": 720,
     "2023-02": 720,
@@ -5354,15 +5452,16 @@
     "2026-06": 70,
     "2026-07": 70,
     "2026-08": 90,
-    "2026-09": 170
+    "2026-09": 170,
+    "2026-10": 210
    }
   },
   "liatinovy kotol na pelety a drevo": {
    "avg_monthly_searches": 20,
    "category": "pelety",
    "competition": "HIGH",
-   "high_bid_micros": 11717538,
-   "low_bid_micros": 4053013,
+   "high_bid_micros": 8897643,
+   "low_bid_micros": 3716193,
    "monthly": {
     "2023-01": 40,
     "2023-02": 20,
@@ -5408,15 +5507,16 @@
     "2026-06": 10,
     "2026-07": 10,
     "2026-08": 10,
-    "2026-09": 40
+    "2026-09": 40,
+    "2026-10": 10
    }
   },
   "liatinovy kotol na tuhe palivo cena": {
    "avg_monthly_searches": 70,
    "category": "tuhe_paliva",
    "competition": "HIGH",
-   "high_bid_micros": 7462055,
-   "low_bid_micros": 3722384,
+   "high_bid_micros": 8263880,
+   "low_bid_micros": 3433362,
    "monthly": {
     "2023-01": 720,
     "2023-02": 480,
@@ -5462,15 +5562,16 @@
     "2026-06": 40,
     "2026-07": 20,
     "2026-08": 30,
-    "2026-09": 40
+    "2026-09": 40,
+    "2026-10": 70
    }
   },
   "liatinové kotle na drevo": {
    "avg_monthly_searches": 40,
    "category": "drevo",
    "competition": "HIGH",
-   "high_bid_micros": 7854193,
-   "low_bid_micros": 4960656,
+   "high_bid_micros": 7821275,
+   "low_bid_micros": 4198525,
    "monthly": {
     "2023-01": 30,
     "2023-02": 40,
@@ -5516,15 +5617,16 @@
     "2026-06": 10,
     "2026-07": 20,
     "2026-08": 20,
-    "2026-09": 50
+    "2026-09": 50,
+    "2026-10": 40
    }
   },
   "liatinové kotle na tuhé palivo": {
    "avg_monthly_searches": 40,
    "category": "tuhe_paliva",
    "competition": "HIGH",
-   "high_bid_micros": 9878074,
-   "low_bid_micros": 4230472,
+   "high_bid_micros": 8718458,
+   "low_bid_micros": 4214770,
    "monthly": {
     "2023-01": 90,
     "2023-02": 70,
@@ -5570,15 +5672,16 @@
     "2026-06": 20,
     "2026-07": 20,
     "2026-08": 20,
-    "2026-09": 40
+    "2026-09": 40,
+    "2026-10": 50
    }
   },
   "liatinový kotol na pevné palivo": {
    "avg_monthly_searches": 10,
    "category": "pevne_paliva",
    "competition": "HIGH",
-   "high_bid_micros": 7321598,
-   "low_bid_micros": 3931855,
+   "high_bid_micros": 13779264,
+   "low_bid_micros": 3731022,
    "monthly": {
     "2023-01": 10,
     "2023-02": 10,
@@ -5624,15 +5727,16 @@
     "2026-06": 10,
     "2026-07": 0,
     "2026-08": 10,
-    "2026-09": 10
+    "2026-09": 10,
+    "2026-10": 10
    }
   },
   "liatinový kotol na tuhé palivo": {
    "avg_monthly_searches": 110,
    "category": "tuhe_paliva",
    "competition": "HIGH",
-   "high_bid_micros": 9205766,
-   "low_bid_micros": 3833564,
+   "high_bid_micros": 8648431,
+   "low_bid_micros": 3716414,
    "monthly": {
     "2023-01": 590,
     "2023-02": 480,
@@ -5678,15 +5782,16 @@
     "2026-06": 40,
     "2026-07": 70,
     "2026-08": 50,
-    "2026-09": 70
+    "2026-09": 70,
+    "2026-10": 70
    }
   },
   "madarske kotle na drevo": {
    "avg_monthly_searches": 20,
    "category": "drevo",
    "competition": "HIGH",
-   "high_bid_micros": 7447482,
-   "low_bid_micros": 3557748,
+   "high_bid_micros": 10443705,
+   "low_bid_micros": 4744953,
    "monthly": {
     "2023-01": 90,
     "2023-02": 90,
@@ -5732,15 +5837,16 @@
     "2026-06": 10,
     "2026-07": 20,
     "2026-08": 20,
-    "2026-09": 30
+    "2026-09": 30,
+    "2026-10": 40
    }
   },
   "maly kotol na pelety": {
-   "avg_monthly_searches": 40,
+   "avg_monthly_searches": 30,
    "category": "pelety",
    "competition": "HIGH",
-   "high_bid_micros": null,
-   "low_bid_micros": null,
+   "high_bid_micros": 8103752,
+   "low_bid_micros": 4186618,
    "monthly": {
     "2023-01": 90,
     "2023-02": 70,
@@ -5786,13 +5892,14 @@
     "2026-06": 10,
     "2026-07": 20,
     "2026-08": 10,
-    "2026-09": 20
+    "2026-09": 20,
+    "2026-10": 30
    }
   },
   "najlacnejšie kotly na pelety": {
    "avg_monthly_searches": 10,
    "category": "pelety",
-   "competition": "HIGH",
+   "competition": "UNSPECIFIED",
    "high_bid_micros": null,
    "low_bid_micros": null,
    "monthly": {
@@ -5840,15 +5947,16 @@
     "2026-06": 0,
     "2026-07": 0,
     "2026-08": 10,
-    "2026-09": 10
+    "2026-09": 10,
+    "2026-10": 0
    }
   },
   "najlepsi kotol na drevo": {
    "avg_monthly_searches": 90,
    "category": "drevo",
    "competition": "HIGH",
-   "high_bid_micros": 10322924,
-   "low_bid_micros": 4066011,
+   "high_bid_micros": 8830913,
+   "low_bid_micros": 1737153,
    "monthly": {
     "2023-01": 210,
     "2023-02": 210,
@@ -5894,15 +6002,16 @@
     "2026-06": 30,
     "2026-07": 30,
     "2026-08": 30,
-    "2026-09": 110
+    "2026-09": 110,
+    "2026-10": 90
    }
   },
   "najlepsi kotol na pelety": {
    "avg_monthly_searches": 30,
    "category": "pelety",
    "competition": "HIGH",
-   "high_bid_micros": 10208921,
-   "low_bid_micros": 2488796,
+   "high_bid_micros": 8354889,
+   "low_bid_micros": 3874418,
    "monthly": {
     "2023-01": 10,
     "2023-02": 10,
@@ -5948,15 +6057,16 @@
     "2026-06": 20,
     "2026-07": 20,
     "2026-08": 20,
-    "2026-09": 30
+    "2026-09": 30,
+    "2026-10": 40
    }
   },
   "najlepsi kotol na tuhe palivo": {
    "avg_monthly_searches": 40,
    "category": "tuhe_paliva",
    "competition": "HIGH",
-   "high_bid_micros": 8064255,
-   "low_bid_micros": 3245959,
+   "high_bid_micros": 11506948,
+   "low_bid_micros": 3805962,
    "monthly": {
     "2023-01": 30,
     "2023-02": 20,
@@ -6002,15 +6112,16 @@
     "2026-06": 40,
     "2026-07": 40,
     "2026-08": 40,
-    "2026-09": 40
+    "2026-09": 40,
+    "2026-10": 20
    }
   },
   "najlepsie splynovacie kotly na drevo": {
    "avg_monthly_searches": 30,
    "category": "drevo",
    "competition": "HIGH",
-   "high_bid_micros": 9229989,
-   "low_bid_micros": 3253180,
+   "high_bid_micros": 7739031,
+   "low_bid_micros": 3212436,
    "monthly": {
     "2023-01": 10,
     "2023-02": 10,
@@ -6056,15 +6167,16 @@
     "2026-06": 20,
     "2026-07": 40,
     "2026-08": 30,
-    "2026-09": 50
+    "2026-09": 50,
+    "2026-10": 40
    }
   },
   "najpredavanejsie kotle na tuhe palivo": {
    "avg_monthly_searches": 110,
    "category": "tuhe_paliva",
    "competition": "HIGH",
-   "high_bid_micros": 8324710,
-   "low_bid_micros": 3483920,
+   "high_bid_micros": 9262895,
+   "low_bid_micros": 3240478,
    "monthly": {
     "2023-01": 90,
     "2023-02": 70,
@@ -6110,7 +6222,8 @@
     "2026-06": 70,
     "2026-07": 70,
     "2026-08": 70,
-    "2026-09": 90
+    "2026-09": 90,
+    "2026-10": 90
    }
   },
   "nastavenie kotla na pelety": {
@@ -6164,15 +6277,16 @@
     "2026-06": 0,
     "2026-07": 0,
     "2026-08": 10,
-    "2026-09": 10
+    "2026-09": 10,
+    "2026-10": 10
    }
   },
   "nerezovy kotol na tuhe palivo": {
    "avg_monthly_searches": 30,
    "category": "tuhe_paliva",
    "competition": "HIGH",
-   "high_bid_micros": 6485530,
-   "low_bid_micros": 2986205,
+   "high_bid_micros": 8718458,
+   "low_bid_micros": 4204169,
    "monthly": {
     "2023-01": 210,
     "2023-02": 110,
@@ -6218,15 +6332,16 @@
     "2026-06": 10,
     "2026-07": 10,
     "2026-08": 10,
-    "2026-09": 10
+    "2026-09": 10,
+    "2026-10": 40
    }
   },
   "nerezový kotol na drevo": {
    "avg_monthly_searches": 20,
    "category": "drevo",
    "competition": "HIGH",
-   "high_bid_micros": 8417531,
-   "low_bid_micros": 2990122,
+   "high_bid_micros": 7213319,
+   "low_bid_micros": 2989186,
    "monthly": {
     "2023-01": 40,
     "2023-02": 90,
@@ -6272,15 +6387,16 @@
     "2026-06": 10,
     "2026-07": 10,
     "2026-08": 10,
-    "2026-09": 20
+    "2026-09": 20,
+    "2026-10": 20
    }
   },
   "ocelove kotle na drevo": {
-   "avg_monthly_searches": 20,
+   "avg_monthly_searches": 10,
    "category": "drevo",
-   "competition": "HIGH",
-   "high_bid_micros": 16498088,
-   "low_bid_micros": 6202953,
+   "competition": "MEDIUM",
+   "high_bid_micros": 6910304,
+   "low_bid_micros": 3668542,
    "monthly": {
     "2023-01": 50,
     "2023-02": 20,
@@ -6326,7 +6442,8 @@
     "2026-06": 10,
     "2026-07": 10,
     "2026-08": 10,
-    "2026-09": 10
+    "2026-09": 10,
+    "2026-10": 10
    }
   },
   "ocelove kotly na pevne palivo": {
@@ -6380,15 +6497,16 @@
     "2026-06": 0,
     "2026-07": 0,
     "2026-08": 0,
-    "2026-09": 0
+    "2026-09": 0,
+    "2026-10": 0
    }
   },
   "ocelovy kotol na drevo": {
    "avg_monthly_searches": 110,
    "category": "drevo",
    "competition": "HIGH",
-   "high_bid_micros": 7802815,
-   "low_bid_micros": 3728949,
+   "high_bid_micros": 7704726,
+   "low_bid_micros": 3715153,
    "monthly": {
     "2023-01": 320,
     "2023-02": 210,
@@ -6434,15 +6552,16 @@
     "2026-06": 50,
     "2026-07": 50,
     "2026-08": 30,
-    "2026-09": 110
+    "2026-09": 110,
+    "2026-10": 140
    }
   },
   "oceľový kotol na tuhé palivo": {
-   "avg_monthly_searches": 70,
+   "avg_monthly_searches": 50,
    "category": "tuhe_paliva",
    "competition": "HIGH",
-   "high_bid_micros": 11001533,
-   "low_bid_micros": 4250515,
+   "high_bid_micros": 17608156,
+   "low_bid_micros": 3739321,
    "monthly": {
     "2023-01": 140,
     "2023-02": 110,
@@ -6488,13 +6607,14 @@
     "2026-06": 30,
     "2026-07": 50,
     "2026-08": 30,
-    "2026-09": 70
+    "2026-09": 70,
+    "2026-10": 50
    }
   },
   "peletove kotle so zasobnikom": {
    "avg_monthly_searches": 10,
    "category": "pelety",
-   "competition": "HIGH",
+   "competition": "UNSPECIFIED",
    "high_bid_micros": null,
    "low_bid_micros": null,
    "monthly": {
@@ -6542,15 +6662,16 @@
     "2026-06": 0,
     "2026-07": 0,
     "2026-08": 0,
-    "2026-09": 10
+    "2026-09": 10,
+    "2026-10": 0
    }
   },
   "peletove kotle so zasobnikom cena": {
    "avg_monthly_searches": 10,
    "category": "pelety",
    "competition": "HIGH",
-   "high_bid_micros": 5513665,
-   "low_bid_micros": 2503587,
+   "high_bid_micros": null,
+   "low_bid_micros": null,
    "monthly": {
     "2023-01": 10,
     "2023-02": 10,
@@ -6596,15 +6717,16 @@
     "2026-06": 10,
     "2026-07": 0,
     "2026-08": 10,
-    "2026-09": 10
+    "2026-09": 10,
+    "2026-10": 10
    }
   },
   "peletove kotly": {
    "avg_monthly_searches": 30,
    "category": "pelety",
    "competition": "HIGH",
-   "high_bid_micros": 7473587,
-   "low_bid_micros": 3560440,
+   "high_bid_micros": 8370913,
+   "low_bid_micros": 4117454,
    "monthly": {
     "2023-01": 10,
     "2023-02": 10,
@@ -6650,69 +6772,71 @@
     "2026-06": 20,
     "2026-07": 20,
     "2026-08": 20,
-    "2026-09": 30
+    "2026-09": 30,
+    "2026-10": 30
    }
   },
   "peletovy kotol": {
    "avg_monthly_searches": 260,
    "category": "pelety",
    "competition": "HIGH",
-   "high_bid_micros": 10703617,
-   "low_bid_micros": 3505845,
+   "high_bid_micros": 7429686,
+   "low_bid_micros": 3412779,
    "monthly": {
-    "2023-01": 210,
+    "2023-01": 260,
     "2023-02": 210,
     "2023-03": 170,
-    "2023-04": 110,
-    "2023-05": 110,
-    "2023-06": 90,
-    "2023-07": 70,
-    "2023-08": 110,
-    "2023-09": 140,
+    "2023-04": 140,
+    "2023-05": 140,
+    "2023-06": 110,
+    "2023-07": 90,
+    "2023-08": 140,
+    "2023-09": 170,
     "2023-10": 260,
-    "2023-11": 260,
-    "2023-12": 210,
+    "2023-11": 320,
+    "2023-12": 260,
     "2024-01": 390,
     "2024-02": 260,
     "2024-03": 210,
-    "2024-04": 90,
+    "2024-04": 110,
     "2024-05": 140,
     "2024-06": 90,
-    "2024-07": 70,
-    "2024-08": 140,
+    "2024-07": 90,
+    "2024-08": 170,
     "2024-09": 260,
     "2024-10": 320,
     "2024-11": 390,
-    "2024-12": 320,
+    "2024-12": 390,
     "2025-01": 480,
     "2025-02": 320,
-    "2025-03": 210,
+    "2025-03": 260,
     "2025-04": 170,
-    "2025-05": 140,
+    "2025-05": 170,
     "2025-06": 110,
-    "2025-07": 110,
-    "2025-08": 140,
+    "2025-07": 140,
+    "2025-08": 170,
     "2025-09": 260,
-    "2025-10": 390,
-    "2025-11": 390,
+    "2025-10": 480,
+    "2025-11": 480,
     "2025-12": 320,
     "2026-01": 590,
     "2026-02": 320,
     "2026-03": 320,
-    "2026-04": 140,
-    "2026-05": 90,
-    "2026-06": 110,
+    "2026-04": 170,
+    "2026-05": 110,
+    "2026-06": 140,
     "2026-07": 90,
     "2026-08": 110,
-    "2026-09": 170
+    "2026-09": 170,
+    "2026-10": 260
    }
   },
   "peletovy kotol cena": {
-   "avg_monthly_searches": 30,
+   "avg_monthly_searches": 20,
    "category": "pelety",
    "competition": "HIGH",
-   "high_bid_micros": 11676707,
-   "low_bid_micros": 4492699,
+   "high_bid_micros": 11088401,
+   "low_bid_micros": 3292644,
    "monthly": {
     "2023-01": 20,
     "2023-02": 20,
@@ -6758,15 +6882,16 @@
     "2026-06": 10,
     "2026-07": 10,
     "2026-08": 10,
-    "2026-09": 10
+    "2026-09": 10,
+    "2026-10": 10
    }
   },
   "peletovy kotol so zasobnikom": {
-   "avg_monthly_searches": 50,
+   "avg_monthly_searches": 40,
    "category": "pelety",
    "competition": "HIGH",
-   "high_bid_micros": 10129360,
-   "low_bid_micros": 5401304,
+   "high_bid_micros": 6950142,
+   "low_bid_micros": 3753663,
    "monthly": {
     "2023-01": 30,
     "2023-02": 30,
@@ -6812,15 +6937,16 @@
     "2026-06": 10,
     "2026-07": 10,
     "2026-08": 10,
-    "2026-09": 30
+    "2026-09": 30,
+    "2026-10": 50
    }
   },
   "peletovy kotol so zasobnikom cena": {
    "avg_monthly_searches": 20,
    "category": "pelety",
    "competition": "HIGH",
-   "high_bid_micros": 12200155,
-   "low_bid_micros": 4797901,
+   "high_bid_micros": 10783394,
+   "low_bid_micros": 3985589,
    "monthly": {
     "2023-01": 20,
     "2023-02": 10,
@@ -6866,13 +6992,14 @@
     "2026-06": 10,
     "2026-07": 10,
     "2026-08": 20,
-    "2026-09": 30
+    "2026-09": 30,
+    "2026-10": 20
    }
   },
   "peletovy kotol spotreba": {
    "avg_monthly_searches": 10,
    "category": "pelety",
-   "competition": "MEDIUM",
+   "competition": "UNSPECIFIED",
    "high_bid_micros": null,
    "low_bid_micros": null,
    "monthly": {
@@ -6920,7 +7047,8 @@
     "2026-06": 0,
     "2026-07": 0,
     "2026-08": 0,
-    "2026-09": 10
+    "2026-09": 10,
+    "2026-10": 0
    }
   },
   "peletové kotly": {
@@ -6974,15 +7102,16 @@
     "2026-06": 10,
     "2026-07": 10,
     "2026-08": 10,
-    "2026-09": 10
+    "2026-09": 10,
+    "2026-10": 10
    }
   },
   "peletový kotol": {
    "avg_monthly_searches": 110,
    "category": "pelety",
    "competition": "HIGH",
-   "high_bid_micros": 9018899,
-   "low_bid_micros": 3017079,
+   "high_bid_micros": 7456599,
+   "low_bid_micros": 3851710,
    "monthly": {
     "2023-01": 140,
     "2023-02": 90,
@@ -7028,15 +7157,16 @@
     "2026-06": 40,
     "2026-07": 50,
     "2026-08": 50,
-    "2026-09": 90
+    "2026-09": 90,
+    "2026-10": 90
    }
   },
   "pelety do kotla": {
    "avg_monthly_searches": 30,
    "category": "pelety",
    "competition": "HIGH",
-   "high_bid_micros": 4826128,
-   "low_bid_micros": 2287924,
+   "high_bid_micros": 7437809,
+   "low_bid_micros": 4193612,
    "monthly": {
     "2023-01": 20,
     "2023-02": 10,
@@ -7082,15 +7212,16 @@
     "2026-06": 10,
     "2026-07": 20,
     "2026-08": 20,
-    "2026-09": 30
+    "2026-09": 30,
+    "2026-10": 20
    }
   },
   "pelety kotol": {
    "avg_monthly_searches": 20,
    "category": "pelety",
    "competition": "HIGH",
-   "high_bid_micros": 9691141,
-   "low_bid_micros": 3578798,
+   "high_bid_micros": null,
+   "low_bid_micros": null,
    "monthly": {
     "2023-01": 10,
     "2023-02": 10,
@@ -7136,15 +7267,16 @@
     "2026-06": 0,
     "2026-07": 10,
     "2026-08": 10,
-    "2026-09": 10
+    "2026-09": 10,
+    "2026-10": 10
    }
   },
   "plechovy kotol na drevo": {
    "avg_monthly_searches": 30,
    "category": "drevo",
    "competition": "HIGH",
-   "high_bid_micros": 7371247,
-   "low_bid_micros": 3434731,
+   "high_bid_micros": 7505113,
+   "low_bid_micros": 3720996,
    "monthly": {
     "2023-01": 140,
     "2023-02": 140,
@@ -7190,15 +7322,16 @@
     "2026-06": 10,
     "2026-07": 10,
     "2026-08": 10,
-    "2026-09": 30
+    "2026-09": 30,
+    "2026-10": 40
    }
   },
   "plne automatický kotol na pelety": {
-   "avg_monthly_searches": 140,
+   "avg_monthly_searches": 110,
    "category": "pelety",
    "competition": "HIGH",
-   "high_bid_micros": 16507015,
-   "low_bid_micros": 3501775,
+   "high_bid_micros": 9659420,
+   "low_bid_micros": 4214284,
    "monthly": {
     "2023-01": 70,
     "2023-02": 70,
@@ -7244,15 +7377,16 @@
     "2026-06": 50,
     "2026-07": 70,
     "2026-08": 50,
-    "2026-09": 90
+    "2026-09": 90,
+    "2026-10": 70
    }
   },
   "predaj kotlov na tuhe palivo": {
    "avg_monthly_searches": 30,
    "category": "tuhe_paliva",
    "competition": "HIGH",
-   "high_bid_micros": 9854398,
-   "low_bid_micros": 3718205,
+   "high_bid_micros": 11216681,
+   "low_bid_micros": 4226833,
    "monthly": {
     "2023-01": 110,
     "2023-02": 90,
@@ -7298,15 +7432,16 @@
     "2026-06": 10,
     "2026-07": 20,
     "2026-08": 30,
-    "2026-09": 20
+    "2026-09": 20,
+    "2026-10": 30
    }
   },
   "predam kotol na drevo": {
    "avg_monthly_searches": 110,
    "category": "drevo",
    "competition": "MEDIUM",
-   "high_bid_micros": 8295848,
-   "low_bid_micros": 3351537,
+   "high_bid_micros": 7762868,
+   "low_bid_micros": 3222860,
    "monthly": {
     "2023-01": 210,
     "2023-02": 210,
@@ -7352,11 +7487,12 @@
     "2026-06": 110,
     "2026-07": 110,
     "2026-08": 110,
-    "2026-09": 140
+    "2026-09": 140,
+    "2026-10": 140
    }
   },
   "predam kotol na pelety": {
-   "avg_monthly_searches": 40,
+   "avg_monthly_searches": 30,
    "category": "pelety",
    "competition": "HIGH",
    "high_bid_micros": null,
@@ -7365,7 +7501,7 @@
     "2023-01": 70,
     "2023-02": 90,
     "2023-03": 90,
-    "2023-04": 40,
+    "2023-04": 50,
     "2023-05": 40,
     "2023-06": 20,
     "2023-07": 30,
@@ -7383,12 +7519,12 @@
     "2024-07": 40,
     "2024-08": 50,
     "2024-09": 90,
-    "2024-10": 70,
+    "2024-10": 90,
     "2024-11": 90,
     "2024-12": 110,
     "2025-01": 110,
     "2025-02": 90,
-    "2025-03": 90,
+    "2025-03": 110,
     "2025-04": 40,
     "2025-05": 70,
     "2025-06": 70,
@@ -7396,25 +7532,26 @@
     "2025-08": 40,
     "2025-09": 50,
     "2025-10": 90,
-    "2025-11": 40,
-    "2025-12": 30,
+    "2025-11": 50,
+    "2025-12": 40,
     "2026-01": 90,
     "2026-02": 40,
-    "2026-03": 30,
+    "2026-03": 40,
     "2026-04": 20,
     "2026-05": 10,
     "2026-06": 20,
     "2026-07": 10,
-    "2026-08": 10,
-    "2026-09": 20
+    "2026-08": 20,
+    "2026-09": 30,
+    "2026-10": 20
    }
   },
   "predam kotol na pevne palivo": {
    "avg_monthly_searches": 10,
    "category": "pevne_paliva",
-   "competition": "UNSPECIFIED",
-   "high_bid_micros": null,
-   "low_bid_micros": null,
+   "competition": "HIGH",
+   "high_bid_micros": 12807738,
+   "low_bid_micros": 3233550,
    "monthly": {
     "2023-01": 10,
     "2023-02": 10,
@@ -7460,15 +7597,16 @@
     "2026-06": 0,
     "2026-07": 0,
     "2026-08": 10,
-    "2026-09": 0
+    "2026-09": 0,
+    "2026-10": 10
    }
   },
   "predam kotol na tuhe palivo": {
    "avg_monthly_searches": 40,
    "category": "tuhe_paliva",
    "competition": "HIGH",
-   "high_bid_micros": 8310815,
-   "low_bid_micros": 3738708,
+   "high_bid_micros": 9462574,
+   "low_bid_micros": 3717654,
    "monthly": {
     "2023-01": 70,
     "2023-02": 90,
@@ -7514,13 +7652,14 @@
     "2026-06": 10,
     "2026-07": 50,
     "2026-08": 20,
-    "2026-09": 40
+    "2026-09": 40,
+    "2026-10": 70
    }
   },
   "prestavba kotla na pelety": {
    "avg_monthly_searches": 20,
    "category": "pelety",
-   "competition": "HIGH",
+   "competition": "LOW",
    "high_bid_micros": null,
    "low_bid_micros": null,
    "monthly": {
@@ -7568,13 +7707,14 @@
     "2026-06": 10,
     "2026-07": 10,
     "2026-08": 10,
-    "2026-09": 10
+    "2026-09": 10,
+    "2026-10": 10
    }
   },
   "prestavba kotla na pelety cena": {
    "avg_monthly_searches": 30,
    "category": "pelety",
-   "competition": "MEDIUM",
+   "competition": "LOW",
    "high_bid_micros": null,
    "low_bid_micros": null,
    "monthly": {
@@ -7622,13 +7762,14 @@
     "2026-06": 10,
     "2026-07": 10,
     "2026-08": 10,
-    "2026-09": 20
+    "2026-09": 20,
+    "2026-10": 20
    }
   },
   "pripojenie kotla na tuhe palivo": {
    "avg_monthly_searches": 20,
    "category": "tuhe_paliva",
-   "competition": "LOW",
+   "competition": "MEDIUM",
    "high_bid_micros": null,
    "low_bid_micros": null,
    "monthly": {
@@ -7676,7 +7817,8 @@
     "2026-06": 10,
     "2026-07": 30,
     "2026-08": 10,
-    "2026-09": 10
+    "2026-09": 10,
+    "2026-10": 30
    }
   },
   "regulacia kotla na tuhe palivo": {
@@ -7730,7 +7872,8 @@
     "2026-06": 30,
     "2026-07": 10,
     "2026-08": 10,
-    "2026-09": 30
+    "2026-09": 30,
+    "2026-10": 30
    }
   },
   "regulátor ťahu pre kotly na tuhé palivo": {
@@ -7784,13 +7927,14 @@
     "2026-06": 10,
     "2026-07": 10,
     "2026-08": 10,
-    "2026-09": 20
+    "2026-09": 20,
+    "2026-10": 30
    }
   },
   "riadiaca jednotka kotla na tuhe palivo": {
    "avg_monthly_searches": 30,
    "category": "tuhe_paliva",
-   "competition": "MEDIUM",
+   "competition": "LOW",
    "high_bid_micros": null,
    "low_bid_micros": null,
    "monthly": {
@@ -7838,15 +7982,16 @@
     "2026-06": 20,
     "2026-07": 40,
     "2026-08": 70,
-    "2026-09": 90
+    "2026-09": 90,
+    "2026-10": 90
    }
   },
   "splinovacie kotle na drevo": {
    "avg_monthly_searches": 140,
    "category": "drevo",
    "competition": "HIGH",
-   "high_bid_micros": 9600223,
-   "low_bid_micros": 4285131,
+   "high_bid_micros": 8851209,
+   "low_bid_micros": 3964165,
    "monthly": {
     "2023-01": 140,
     "2023-02": 70,
@@ -7892,15 +8037,16 @@
     "2026-06": 70,
     "2026-07": 50,
     "2026-08": 50,
-    "2026-09": 90
+    "2026-09": 90,
+    "2026-10": 140
    }
   },
   "splynovaci kotol": {
    "avg_monthly_searches": 210,
    "category": "drevo",
    "competition": "HIGH",
-   "high_bid_micros": 8474313,
-   "low_bid_micros": 3263268,
+   "high_bid_micros": 8147596,
+   "low_bid_micros": 3221245,
    "monthly": {
     "2023-01": 590,
     "2023-02": 480,
@@ -7946,15 +8092,16 @@
     "2026-06": 70,
     "2026-07": 140,
     "2026-08": 110,
-    "2026-09": 210
+    "2026-09": 210,
+    "2026-10": 210
    }
   },
   "splynovaci kotol na drevo": {
    "avg_monthly_searches": 30,
    "category": "drevo",
    "competition": "HIGH",
-   "high_bid_micros": 9606087,
-   "low_bid_micros": 3769539,
+   "high_bid_micros": 6808671,
+   "low_bid_micros": 3223060,
    "monthly": {
     "2023-01": 260,
     "2023-02": 140,
@@ -8000,15 +8147,16 @@
     "2026-06": 10,
     "2026-07": 10,
     "2026-08": 20,
-    "2026-09": 20
+    "2026-09": 20,
+    "2026-10": 30
    }
   },
   "splynovaci kotol na drevo a pelety": {
    "avg_monthly_searches": 50,
    "category": "drevo",
    "competition": "HIGH",
-   "high_bid_micros": 9575563,
-   "low_bid_micros": 3923628,
+   "high_bid_micros": 8678908,
+   "low_bid_micros": 4216652,
    "monthly": {
     "2023-01": 30,
     "2023-02": 10,
@@ -8054,15 +8202,16 @@
     "2026-06": 10,
     "2026-07": 30,
     "2026-08": 40,
-    "2026-09": 70
+    "2026-09": 70,
+    "2026-10": 70
    }
   },
   "splynovaci kotol na drevo cena": {
    "avg_monthly_searches": 110,
    "category": "drevo",
    "competition": "HIGH",
-   "high_bid_micros": 8754790,
-   "low_bid_micros": 3285302,
+   "high_bid_micros": 7756383,
+   "low_bid_micros": 3223060,
    "monthly": {
     "2023-01": 70,
     "2023-02": 70,
@@ -8108,15 +8257,16 @@
     "2026-06": 50,
     "2026-07": 70,
     "2026-08": 50,
-    "2026-09": 140
+    "2026-09": 140,
+    "2026-10": 140
    }
   },
   "splynovaci kotol na tuhe palivo": {
-   "avg_monthly_searches": 30,
+   "avg_monthly_searches": 20,
    "category": "drevo",
    "competition": "HIGH",
-   "high_bid_micros": 9558626,
-   "low_bid_micros": 4198853,
+   "high_bid_micros": 10912360,
+   "low_bid_micros": 3233550,
    "monthly": {
     "2023-01": 90,
     "2023-02": 170,
@@ -8162,15 +8312,16 @@
     "2026-06": 10,
     "2026-07": 10,
     "2026-08": 10,
-    "2026-09": 20
+    "2026-09": 20,
+    "2026-10": 10
    }
   },
   "splynovací kotol na drevo": {
    "avg_monthly_searches": 140,
    "category": "drevo",
    "competition": "HIGH",
-   "high_bid_micros": 9573265,
-   "low_bid_micros": 3300554,
+   "high_bid_micros": 8647767,
+   "low_bid_micros": 3222860,
    "monthly": {
     "2023-01": 50,
     "2023-02": 70,
@@ -8216,67 +8367,69 @@
     "2026-06": 50,
     "2026-07": 140,
     "2026-08": 110,
-    "2026-09": 170
+    "2026-09": 170,
+    "2026-10": 210
    }
   },
   "splyňovací kotol": {
-   "avg_monthly_searches": 70,
+   "avg_monthly_searches": 90,
    "category": "drevo",
    "competition": "HIGH",
-   "high_bid_micros": 8482913,
-   "low_bid_micros": 3255981,
+   "high_bid_micros": 7872269,
+   "low_bid_micros": 3222683,
    "monthly": {
     "2023-01": 260,
     "2023-02": 210,
     "2023-03": 140,
-    "2023-04": 90,
-    "2023-05": 90,
+    "2023-04": 110,
+    "2023-05": 110,
     "2023-06": 50,
     "2023-07": 70,
     "2023-08": 90,
-    "2023-09": 110,
-    "2023-10": 210,
+    "2023-09": 140,
+    "2023-10": 260,
     "2023-11": 210,
-    "2023-12": 170,
-    "2024-01": 90,
-    "2024-02": 40,
-    "2024-03": 50,
-    "2024-04": 20,
-    "2024-05": 20,
-    "2024-06": 20,
+    "2023-12": 210,
+    "2024-01": 140,
+    "2024-02": 50,
+    "2024-03": 70,
+    "2024-04": 30,
+    "2024-05": 40,
+    "2024-06": 30,
     "2024-07": 10,
-    "2024-08": 40,
+    "2024-08": 50,
     "2024-09": 70,
     "2024-10": 70,
-    "2024-11": 110,
+    "2024-11": 140,
     "2024-12": 90,
-    "2025-01": 90,
-    "2025-02": 90,
-    "2025-03": 30,
-    "2025-04": 50,
-    "2025-05": 40,
-    "2025-06": 20,
-    "2025-07": 20,
-    "2025-08": 30,
+    "2025-01": 110,
+    "2025-02": 110,
+    "2025-03": 50,
+    "2025-04": 70,
+    "2025-05": 50,
+    "2025-06": 30,
+    "2025-07": 30,
+    "2025-08": 40,
     "2025-09": 50,
     "2025-10": 110,
-    "2025-11": 140,
+    "2025-11": 170,
     "2025-12": 110,
     "2026-01": 170,
-    "2026-02": 90,
+    "2026-02": 110,
     "2026-03": 70,
-    "2026-04": 50,
-    "2026-05": 30,
-    "2026-06": 20,
+    "2026-04": 70,
+    "2026-05": 40,
+    "2026-06": 30,
     "2026-07": 50,
     "2026-08": 30,
-    "2026-09": 40
+    "2026-09": 50,
+    "2026-10": 70
    }
   },
   "teplovzdusny kotol na pevne palivo": {
    "avg_monthly_searches": 10,
    "category": "pevne_paliva",
-   "competition": "UNSPECIFIED",
+   "competition": "LOW",
    "high_bid_micros": null,
    "low_bid_micros": null,
    "monthly": {
@@ -8324,15 +8477,16 @@
     "2026-06": 0,
     "2026-07": 0,
     "2026-08": 0,
-    "2026-09": 0
+    "2026-09": 0,
+    "2026-10": 10
    }
   },
   "teplovzdušný kotol na drevo": {
    "avg_monthly_searches": 40,
    "category": "drevo",
    "competition": "HIGH",
-   "high_bid_micros": 7498641,
-   "low_bid_micros": 4157781,
+   "high_bid_micros": 11924388,
+   "low_bid_micros": 4214062,
    "monthly": {
     "2023-01": 70,
     "2023-02": 70,
@@ -8378,15 +8532,16 @@
     "2026-06": 10,
     "2026-07": 10,
     "2026-08": 30,
-    "2026-09": 40
+    "2026-09": 40,
+    "2026-10": 70
    }
   },
   "teplovzdušný kotol na pelety": {
    "avg_monthly_searches": 20,
    "category": "pelety",
    "competition": "HIGH",
-   "high_bid_micros": null,
-   "low_bid_micros": null,
+   "high_bid_micros": 11563673,
+   "low_bid_micros": 4234690,
    "monthly": {
     "2023-01": 30,
     "2023-02": 20,
@@ -8432,15 +8587,16 @@
     "2026-06": 10,
     "2026-07": 10,
     "2026-08": 10,
-    "2026-09": 10
+    "2026-09": 10,
+    "2026-10": 30
    }
   },
   "termostat na kotol na tuhe palivo": {
    "avg_monthly_searches": 40,
    "category": "tuhe_paliva",
    "competition": "HIGH",
-   "high_bid_micros": 8397903,
-   "low_bid_micros": 1987973,
+   "high_bid_micros": 7705102,
+   "low_bid_micros": 2308547,
    "monthly": {
     "2023-01": 50,
     "2023-02": 40,
@@ -8486,7 +8642,8 @@
     "2026-06": 10,
     "2026-07": 20,
     "2026-08": 40,
-    "2026-09": 50
+    "2026-09": 50,
+    "2026-10": 110
    }
   },
   "zapojenie kotla na drevo": {
@@ -8540,7 +8697,8 @@
     "2026-06": 30,
     "2026-07": 40,
     "2026-08": 90,
-    "2026-09": 110
+    "2026-09": 110,
+    "2026-10": 140
    }
   },
   "zapojenie kotla na tuhe palivo": {
@@ -8594,7 +8752,8 @@
     "2026-06": 30,
     "2026-07": 50,
     "2026-08": 40,
-    "2026-09": 90
+    "2026-09": 90,
+    "2026-10": 110
    }
   }
  },
@@ -8616,8 +8775,17 @@
    "months_from": "2022-10",
    "months_to": "2026-09",
    "note": "měsíční aktualizace"
+  },
+  {
+   "added_months": 1,
+   "changed_cells": 86,
+   "date": "2026-11-16",
+   "keywords": 160,
+   "months_from": "2022-11",
+   "months_to": "2026-10",
+   "note": "měsíční aktualizace"
   }
  ],
  "source": "Google Ads Keyword Planner, language_id 1033, geo 2703, GOOGLE_SEARCH",
- "updated": "2026-10-15"
+ "updated": "2026-11-16"
 }
